@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Academic Template"
+title = "El Hub Economico"
 subtitle = ""
 
 [design]
@@ -36,7 +36,7 @@ subtitle = ""
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -50,9 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-# Bienvenidos a **El Hub Económico**
-
-Este sitio provee un índice variables conómicas de Argentina. Todas las series incluidas en este sitio son de acceso público y gratuito. **El Hub Económico** no guarda información de terceros, sino que ofrece links directos a las fuentes originales, facilitando el acceso a la información pública e incrementando la visibilidad de las diversas fuentes aquí recopiladas.
+Bienvenidos a **El Hub Económico**. Este sitio provee un índice variables económicas de Argentina. Todas las series incluídas en este sitio son de acceso público y gratuito. **El Hub Económico** no guarda información de terceros, sino que ofrece links directos a las fuentes originales, facilitando el acceso a la información pública e incrementando la visibilidad de las diversas fuentes aquí recopiladas.
 
 ## Información de contacto
 
