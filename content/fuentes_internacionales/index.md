@@ -16,7 +16,7 @@ header:
 6. The World Bank
 7. United Nations
 
-{{< TOC >}}
+{{< toc >}}
 
 ---
 ## [Center for Systemic Peace](http://www.systemicpeace.org/)
