@@ -17,7 +17,7 @@ main:
     url: 'fuentes_internacionales/'
     weight: 40
   - name: Gráficos
-    url: 'gráficos/'
+    url: 'graficos/'
     weight: 50
 
 
