@@ -4,20 +4,17 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: '#about'
-    weight: 10
   - name: Fuentes Oficiales
     url: 'fuentes_oficiales/'
-    weight: 20
+    weight: 10
   - name: Fuentes Privadas
     url: 'fuentes_privadas/'
-    weight: 30
+    weight: 20
   - name: Fuentes Internacionales
     url: 'fuentes_internacionales/'
-    weight: 40
+    weight: 30
   - name: Gráficos
     url: 'graficos/'
-    weight: 50
+    weight: 40
 
 
