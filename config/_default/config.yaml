@@ -5,7 +5,7 @@
 
 baseurl: '' # Website URL
 title: El Hub Económico # Website name
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: 'Copyright @ {year} Nicolás Cachanosky' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
