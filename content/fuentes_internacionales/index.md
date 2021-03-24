@@ -7,7 +7,7 @@ header:
   image: ""
 ---
 
-# CONTENIDOS
+## CONTENIDOS
 1. Center for Systemic Peace
 2. Comisión Económica para América Latina y el Caribe (CEPAL)
 3. Groningen Growth and Development Center
@@ -18,7 +18,7 @@ header:
 
 
 ---
-# [Center for Systemic Peace](http://www.systemicpeace.org/)
+## [Center for Systemic Peace](http://www.systemicpeace.org/)
 * [INSCR data](http://www.systemicpeace.org/inscrdata.html)
     * Armed Conflict and Intervention (ACI) dataset
     * Polity V: Regime Authority Characteristics and Transitioal Datasets
@@ -27,7 +27,7 @@ header:
 
 
 ---
-# [Comisión Económica para América Latina y el Caribe (CEPAL)](https://www.cepal.org/es)
+## [Comisión Económica para América Latina y el Caribe (CEPAL)](https://www.cepal.org/es)
 * [CEPALSTAT | Base de Datos y Publicaciones Estadísticas](https://estadisticas.cepal.org/cepalstat/Portada.html)
 * [Recuperación de datos para áreas pequeñas por microcomputador (REDATAM)](https://www.cepal.org/es/temas/redatam/acerca-redatam)
 * [Desarrollo productivo y empresarial](https://www.cepal.org/es/areas-de-trabajo/desarrollo-productivo-y-empresarial)
@@ -35,7 +35,7 @@ header:
 
 
 ---
-# [Groningen Growth and Development Center](https://www.rug.nl/ggdc/)
+## [Groningen Growth and Development Center](https://www.rug.nl/ggdc/)
 * [Productivity](https://www.rug.nl/ggdc/productivity/)
     * Penn World Table
     * 10-sector database
@@ -51,7 +51,7 @@ header:
 
 
 ---
-# [The Conference Board](https://www.conference-board.org/us/)
+## [The Conference Board](https://www.conference-board.org/us/)
 * [Total Economy Database](https://www.conference-board.org/data/economydatabase/)
     * TED 1
         * GDP
@@ -74,14 +74,14 @@ header:
 
 
 ---
-# [The Fraser Institute](https://www.fraserinstitute.org/)
+## [The Fraser Institute](https://www.fraserinstitute.org/)
 * Economic Freedom of the world (EFW)
     * [Map](https://www.fraserinstitute.org/economic-freedom/map?geozone=world&year=2018&page=map)
     * [Dataset](https://www.fraserinstitute.org/economic-freedom/dataset?geozone=world&min-year=2&max-year=0&page=dataset&filter=0)
 
 
 ---
-# [The World Bank](http://www.worldbank.org/)
+## [The World Bank](http://www.worldbank.org/)
 * [Data Catalog](https://datacatalog.worldbank.org/)
 * [DataBank](https://databank.worldbank.org/home.aspx)
 * Databases and projects
@@ -94,7 +94,7 @@ header:
 
 
 ---
-# [United Nations](https://www.un.org/)
+## [United Nations](https://www.un.org/)
 * [Human Development Reports](http://hdr.undp.org/en)
     * Human Development Index
     * The 2020 Global Multidimensional Poverty Index (MPI)

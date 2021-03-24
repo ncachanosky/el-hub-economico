@@ -7,7 +7,7 @@ header:
   image: ""
 ---
 
-# CONTENIDOS
+## CONTENIDOS
 1. Fundación de Investigaciones Económicas Latinoamericanas (FIEL)
     * Indice de Producción Industrial (IPI)
 2. Fundación Norte y Sur
@@ -39,15 +39,15 @@ header:
 
 
 ---
-# [Fundación de Investigaciones Económicas Latinoamericanas (FIEL)](http://www.fiel.org/)
+## [Fundación de Investigaciones Económicas Latinoamericanas (FIEL)](http://www.fiel.org/)
 * [Indice de Producción Industrial (IPI)](http://www.fiel.org/estadisticas)
 
 
 ---
-# [Fundación Norte y Sur](http://www.fundacionnorteysur.org.ar/)
+## [Fundación Norte y Sur](http://www.fundacionnorteysur.org.ar/)
 * [Dos Siglos de Economía Argentina](https://dossiglos.fundacionnorteysur.org.ar/)
 ---
-# [Orlando J. Ferreres y Asociados (OJF)](http://www.ojf.com/index.php?lang=es)
+## [Orlando J. Ferreres y Asociados (OJF)](http://www.ojf.com/index.php?lang=es)
 * [Series de datos](http://www.ojf.com/index.php?option=com_content&view=article&id=56&Itemid=21&lang=es)
     * PBI
     * IGA-OJF (Indice General de Actividad)
@@ -64,7 +64,7 @@ header:
 
 
 ---
-# [Universidad Católica Argentina (UCA)](http://www.uca.edu.ar/)
+## [Universidad Católica Argentina (UCA)](http://www.uca.edu.ar/)
 * [Observatorio de la Deuda Social](http://uca.edu.ar/es/observatorio-de-la-deuda-social-argentina)
     * Series Históricas EDSA
         * Subsistencia material
@@ -75,7 +75,7 @@ header:
 
 
 ---
-# [Universidad del CEMA (UCEMA)](http://www.ucema.edu.ar/)
+## [Universidad del CEMA (UCEMA)](http://www.ucema.edu.ar/)
 * [Centro de Economía Aplicada](https://ucema.edu.ar/cea)
     * Canasta del profesional ejecutivo
     * Indice de Viento de Cola
@@ -85,7 +85,7 @@ header:
 
 
 ---
-# [Universidad Torcuato di Tella (UTDT)](http://www.utdt.edu.ar/)
+## [Universidad Torcuato di Tella (UTDT)](http://www.utdt.edu.ar/)
 * [Centro de Investigación en Finanzas (CIF)](https://www.utdt.edu/ver_contenido.php?id_contenido=9585&id_item_menu=4973)
     * Indice de Flexibilidad de Créditos
     * Relevamiento Inmobiliario de América Latina
@@ -96,6 +96,6 @@ header:
 
 
 ---
-# [Inflación Verdadera](http://inflacionverdadera.com/)
+## [Inflación Verdadera](http://inflacionverdadera.com/)
 * [Inflación Argentina](http://www.inflacionverdadera.com/argentina/)
 * [Inflación Venezuela](http://www.inflacionverdadera.com/venezuela/)
