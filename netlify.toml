@@ -19,3 +19,9 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+[[redirects]]
+  from = "/arc-sw.js"
+  to = "https::arc.io/arc-sw.js"
+  status = 200
+  force = true
