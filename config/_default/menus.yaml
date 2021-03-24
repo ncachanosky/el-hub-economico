@@ -7,24 +7,17 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
+  - name: Fuentes Oficiales
+    url: 'fuentes_oficiales/'
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: Fuentes Privadas
+    url: 'fuentes_privadas/'
     weight: 30
-  - name: Talks
-    url: '#talks'
+  - name: Fuentes Internacionales
+    url: 'fuentes_internacionales/'
     weight: 40
-  - name: Publications
-    url: '#featured'
+  - name: Gráficos
+    url: 'gráficos/'
     weight: 50
-  - name: Contact
-    url: '#contact'
-    weight: 60
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
+
