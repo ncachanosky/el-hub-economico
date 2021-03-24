@@ -5,11 +5,11 @@
 
 # Appearance
 
-theme: minimal
+theme: ocean
 day_night: true
 font: ''
 font_size: L
-i_am_a_sponson: true
+i_am_a_sponsor: true
 
 # SEO
 
