@@ -79,6 +79,3 @@ header:
 
 
 
-{{< chart data="PBI real" >}}
-
-
