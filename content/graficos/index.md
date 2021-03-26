@@ -74,3 +74,11 @@ header:
 ### Gráfico 17
 
 {{< figure src="Fig_17_EFW.png" >}}
+
+
+
+
+
+{{< chart data="PBI real" >}}
+
+
