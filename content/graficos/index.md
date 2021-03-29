@@ -76,8 +76,7 @@ header:
 {{< figure src="Fig_17_EFW.png" >}}
 
 
-Test shortcode
-{{% bokeh "PBI Real.json" %}}
+
 
 Test iframe
  <iframe seamless src="static\Jupyter Notebooks\PBI real.html" width="1200" height="800"></iframe>
