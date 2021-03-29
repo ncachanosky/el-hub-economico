@@ -81,8 +81,5 @@ Test shortcode
 {{% bokeh "PBI Real.json" %}}
 
 
-4
-{{% bokeh "graficos/PBI Real.json" %}}
-
 5
 {{% bokeh "content/graficos/PBI Real.json" %}}
