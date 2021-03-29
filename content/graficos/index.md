@@ -80,9 +80,6 @@ Test shortcode
 1
 {{% bokeh "PBI Real.json" %}}
 
-2
-{{% bokeh "graficos\PBI Real.json" %}}
-
 3
 {{% bokeh "content\graficos\PBI Real.json" %}}
 
