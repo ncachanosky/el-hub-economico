@@ -77,7 +77,7 @@ header:
 
 
 Test shortcode
-{{% bokeh "PBI Real.json" %}}
+{{% bokeh "graficos/PBI Real.json" %}}
 
 Test iframe
  <iframe seamless src="static\Jupyter Notebooks\PBI real.html" width="1200" height="800"></iframe>
