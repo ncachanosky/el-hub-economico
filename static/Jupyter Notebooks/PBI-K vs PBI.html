@@ -1,0 +1,85 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+      <meta charset="utf-8">
+      <title>PBI-K vs PBI</title>
+      
+      
+        
+          
+        
+        
+          
+        <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.0.2.min.js" integrity="sha384-ufR9RFnRs6lniiaFvtJziE0YeidtAgBRH6ux2oUItHw5WTvE1zuk9uzhUU/FJXDp" crossorigin="anonymous"></script>
+        <script type="text/javascript">
+            Bokeh.set_log_level("info");
+        </script>
+        
+      
+      
+    
+  </head>
+  
+  
+  <body>
+    
+      
+        
+          
+          
+            
+              <div class="bk-root" id="4c60e324-d486-4868-b563-42912e2b69d7" data-root-id="2668"></div>
+            
+          
+        
+      
+      
+        <script type="application/json" id="2869">
+          {"53fbdb5c-a9b6-4c89-975a-e8d507dd7e4e":{"roots":{"references":[{"attributes":{},"id":"2752","type":"BasicTickFormatter"},{"attributes":{},"id":"2753","type":"BasicTicker"},{"attributes":{},"id":"2727","type":"UnionRenderers"},{"attributes":{},"id":"2687","type":"PanTool"},{"attributes":{},"id":"2728","type":"Selection"},{"attributes":{"fill_alpha":{"value":0.5},"fill_color":{"value":"red"},"line_color":{"value":"red"},"size":{"units":"screen","value":7},"x":{"field":"YEAR"},"y":{"field":"PBI_K"}},"id":"2737","type":"Circle"},{"attributes":{"data":{"BIAS":{"__ndarray__":"h5vrZjCs8T9DbfgAMbrxP4/3YAb1w/E/8WFbTSWY8T+PHPaiDmzxP5Cz2y3Ki/I/ASDNq/tk8j9HV3s7T8jyP9jEBVtvIvM/yzcxAlg+8z/Py+CuatfzPw==","dtype":"float64","shape":[11]},"C":{"__ndarray__":"qpKFZ0+Bc0BUX5+wjAl1QJyz8kvHJHdAeQKqgmdaeUDRMNC3WBZ7QFlCRWiN5XlAgxtiFnWrfEA/B5R7dDV/QOlSMNJ0Ln9Ary/3aINQgEBY7dIkIu9+QA==","dtype":"float64","shape":[11]},"C_K":{"__ndarray__":"Ne84RUccdkCemWA41zZ4QMzvNJmxHnpALm8O1+qBfEA//WfNj/99QCh+jLlrB39A1IBB0sfEgECeDmQ9VXyCQKBTkJ8NSoNA7N6KxKQghEC0jqomiAaEQA==","dtype":"float64","shape":[11]},"G":{"__ndarray__":"Oy/H3Zr1SkAgOYrDyZ1NQFAeQp4FuE5AMiks9OCPUEBomIMQg2RRQFH3WbhgX1JAqI99cdBfU0ClfPKqOUJUQKHZhExL3lRA7rhAt276VUAUfO+NNKBWQA==","dtype":"float64","shape":[11]},"G_K":{"__ndarray__":"EynN5nEESkCjO4idKRJMQF5KXTKOV01AECGunL2nT0CwxW6fVYZQQPW6RWCs7VFAFovfFFY4U0BoAG+BBOpUQBOy8zY2JlZAWaZfIt4TV0BBvoQKDrhXQA==","dtype":"float64","shape":[11]},"I":{"__ndarray__":"Sdb6UTVJVUC1boSHwh5YQCbANEOnrlpA6DLTb9rcX0D5EnoZUzphQAeczHEgbllAkS0jfBxQYUDDHixgrH1kQOoFkmvN/mJAzSd1etslY0B9F4bMaHpiQA==","dtype":"float64","shape":[11]},"I_K":{"__ndarray__":"WVAYlGkcWEDFjzF3Lc1aQKqCUUmdm19AOLnfoSg8YkAyA5Xxb3VjQLg3v2GiDV5At11ortNyZEDEeTiB6TZoQNKOG34342RAKGN8mD3pZUA2PpP984hkQA==","dtype":"float64","shape":[11]},"M":{"__ndarray__":"r0BuLPBtVEAGyuZ4yqpXQB6WbNDDRFpAczNTIIdtX0AAuf2zVthhQK3/LdcGHl1APxnJMRavY0AuE4y2IAVoQGjbqn5h4mZASmO209rFZ0DUNczvMgtlQA==","dtype":"float64","shape":[11]},"M_K":{"__ndarray__":"Wb3D7dBnVEDmyTUFMspXQHDQXn08YlpAFvn1Q+wBYECpMLYQZCFiQBcQWg9fVF1ASOS7lDrGY0Cq8Gd4szxoQMjsLHonwWZAoMiTpOuQZ0Als3qHW5dkQA==","dtype":"float64","shape":[11]},"PBI":{"__ndarray__":"F5D51tdRfkCBO4ac6IGAQFculjgB2oFA7EuKVAZ2g0BplBdf+0GEQMZO3GEhCoNAq0rr2sYChUA7qFi0b02GQDTc5blSEYZAoLsP3mWThkBX6COIiP+FQA==","dtype":"float64","shape":[11]},"PBI_K":{"__ndarray__":"zPCfbqC+gEBY5ULlH0qCQL7aUZxD0oNA19r7VHVmhUDSi9r96g6GQEFkkSa+EYZAvYdLjrsniEDLFHMQVC6KQAZjRKIQZIpA+U83UAAni0DOiqiJnkeLQA==","dtype":"float64","shape":[11]},"X":{"__ndarray__":"FD2bKQ/sXEC9zqiYGlNgQI+1fimDO2FAcRb/KrCjYkDYyf8e/sZiQJNsao2tBWFAdxfQu0JjY0CKSCFbLTFkQKkzDbDPXGNAww4D0lGuYkD9JjizjWBhQA==","dtype":"float64","shape":[11]},"X_K":{"__ndarray__":"K08g7BTNXECNX3glyTRgQPrvwWsXGWFAacAg6dNxYkA5e2e0VaViQHREvkup5GBAHlA25QpDY0A3ixcLw1hkQBAFM6bgMmNAx53SwfpvYkDUSba6HPBgQA==","dtype":"float64","shape":[11]},"YEAR":{"__ndarray__":"AAAAAABQn0AAAAAAAFSfQP//////V59AAQAAAABcn0AAAAAAAGCfQAAAAAAAZJ9A//////9nn0ABAAAAAGyfQAAAAAAAcJ9AAAAAAAB0n0D//////3efQA==","dtype":"float64","shape":[11]},"index":[0,1,2,3,4,5,6,7,8,9,10]},"selected":{"id":"2728"},"selection_policy":{"id":"2727"}},"id":"2665","type":"ColumnDataSource"},{"attributes":{},"id":"2671","type":"DataRange1d"},{"attributes":{"text":"Crecimiento promedio PBI (ARKLEMS): 1.8%","text_font_size":"10pt","x":2003.5,"y":725},"id":"2667","type":"Label"},{"attributes":{"line_alpha":0.5,"line_color":"blue","line_width":2,"x":{"field":"YEAR"},"y":{"field":"PBI"}},"id":"2705","type":"Line"},{"attributes":{"axis":{"id":"2683"},"dimension":1,"ticker":null},"id":"2686","type":"Grid"},{"attributes":{"format":"$0,0"},"id":"2741","type":"NumeralTickFormatter"},{"attributes":{},"id":"2680","type":"BasicTicker"},{"attributes":{"axis":{"id":"2679"},"ticker":null},"id":"2682","type":"Grid"},{"attributes":{"fill_alpha":{"value":0.5},"fill_color":{"value":"green"},"line_color":{"value":"green"},"top":{"field":"BIAS"},"width":{"value":0.5},"x":{"field":"YEAR"}},"id":"2746","type":"VBar"},{"attributes":{},"id":"2688","type":"WheelZoomTool"},{"attributes":{},"id":"2675","type":"LinearScale"},{"attributes":{"text":"PBI-K vs PBI"},"id":"2669","type":"Title"},{"attributes":{"line_alpha":0.1,"line_color":"blue","line_width":2,"x":{"field":"YEAR"},"y":{"field":"PBI"}},"id":"2706","type":"Line"},{"attributes":{},"id":"2712","type":"BasicTickFormatter"},{"attributes":{"source":{"id":"2665"}},"id":"2708","type":"CDSView"},{"attributes":{"fill_alpha":{"value":0.1},"fill_color":{"value":"blue"},"line_alpha":{"value":0.1},"line_color":{"value":"blue"},"size":{"units":"screen","value":7},"x":{"field":"YEAR"},"y":{"field":"PBI"}},"id":"2733","type":"Circle"},{"attributes":{},"id":"2684","type":"BasicTicker"},{"attributes":{},"id":"2677","type":"LinearScale"},{"attributes":{"axis_label":"Sobre estimacion PBI (K)","formatter":{"id":"2752"},"ticker":{"id":"2753"},"y_range_name":"y2"},"id":"2744","type":"LinearAxis"},{"attributes":{"click_policy":"mute","items":[{"id":"2716"},{"id":"2730"},{"id":"2760"}],"location":"top_left","orientation":"horizontal"},"id":"2715","type":"Legend"},{"attributes":{"axis_label":"Miles de millones de pesos ($2004)","formatter":{"id":"2741"},"ticker":{"id":"2684"}},"id":"2683","type":"LinearAxis"},{"attributes":{"label":{"value":"Sobre estimacion del PBI (K)"},"renderers":[{"id":"2749"}]},"id":"2760","type":"LegendItem"},{"attributes":{"source":{"id":"2665"}},"id":"2735","type":"CDSView"},{"attributes":{"data_source":{"id":"2665"},"glyph":{"id":"2718"},"hover_glyph":null,"muted_glyph":null,"nonselection_glyph":{"id":"2719"},"selection_glyph":null,"view":{"id":"2721"}},"id":"2720","type":"GlyphRenderer"},{"attributes":{"data_source":{"id":"2665"},"glyph":{"id":"2732"},"hover_glyph":null,"muted_glyph":null,"nonselection_glyph":{"id":"2733"},"selection_glyph":null,"view":{"id":"2735"}},"id":"2734","type":"GlyphRenderer"},{"attributes":{"active_drag":"auto","active_inspect":"auto","active_multi":null,"active_scroll":"auto","active_tap":"auto","autohide":true,"tools":[{"id":"2687"},{"id":"2688"},{"id":"2689"},{"id":"2690"},{"id":"2691"},{"id":"2692"},{"id":"2702"}]},"id":"2694","type":"Toolbar"},{"attributes":{"label":{"value":"PBI (ARKLEMS)"},"renderers":[{"id":"2707"}]},"id":"2716","type":"LegendItem"},{"attributes":{"line_alpha":0.5,"line_color":"red","line_width":2,"x":{"field":"YEAR"},"y":{"field":"PBI_K"}},"id":"2718","type":"Line"},{"attributes":{"source":{"id":"2665"}},"id":"2740","type":"CDSView"},{"attributes":{},"id":"2692","type":"HelpTool"},{"attributes":{"label":{"value":"PBI (K)"},"renderers":[{"id":"2720"}]},"id":"2730","type":"LegendItem"},{"attributes":{"data_source":{"id":"2665"},"glyph":{"id":"2737"},"hover_glyph":null,"muted_glyph":null,"nonselection_glyph":{"id":"2738"},"selection_glyph":null,"view":{"id":"2740"}},"id":"2739","type":"GlyphRenderer"},{"attributes":{"overlay":{"id":"2693"}},"id":"2689","type":"BoxZoomTool"},{"attributes":{"callback":null,"tooltips":[["A\u00f1o","@YEAR"],["%PBI (ARKLEMS)","@PBI"],["%PBI (K)","@PBI_K"],["Sobre estimacion","@BIAS"]]},"id":"2702","type":"HoverTool"},{"attributes":{"below":[{"id":"2679"}],"center":[{"id":"2682"},{"id":"2686"},{"id":"2715"},{"id":"2666"},{"id":"2667"}],"extra_y_ranges":{"y2":{"id":"2743"}},"left":[{"id":"2683"}],"plot_width":1000,"renderers":[{"id":"2707"},{"id":"2720"},{"id":"2734"},{"id":"2739"},{"id":"2749"}],"right":[{"id":"2744"}],"title":{"id":"2669"},"toolbar":{"id":"2694"},"toolbar_location":"above","x_range":{"id":"2671"},"x_scale":{"id":"2675"},"y_range":{"id":"2673"},"y_scale":{"id":"2677"}},"id":"2668","subtype":"Figure","type":"Plot"},{"attributes":{"end":2},"id":"2743","type":"Range1d"},{"attributes":{},"id":"2690","type":"SaveTool"},{"attributes":{"bottom_units":"screen","fill_alpha":0.5,"fill_color":"lightgrey","left_units":"screen","level":"overlay","line_alpha":1.0,"line_color":"black","line_dash":[4,4],"line_width":2,"render_mode":"css","right_units":"screen","top_units":"screen"},"id":"2693","type":"BoxAnnotation"},{"attributes":{},"id":"2691","type":"ResetTool"},{"attributes":{"line_alpha":0.1,"line_color":"red","line_width":2,"x":{"field":"YEAR"},"y":{"field":"PBI_K"}},"id":"2719","type":"Line"},{"attributes":{"data_source":{"id":"2665"},"glyph":{"id":"2705"},"hover_glyph":null,"muted_glyph":null,"nonselection_glyph":{"id":"2706"},"selection_glyph":null,"view":{"id":"2708"}},"id":"2707","type":"GlyphRenderer"},{"attributes":{"fill_alpha":{"value":0.1},"fill_color":{"value":"green"},"line_alpha":{"value":0.1},"line_color":{"value":"green"},"top":{"field":"BIAS"},"width":{"value":0.5},"x":{"field":"YEAR"}},"id":"2747","type":"VBar"},{"attributes":{"axis_label":"A\u00f1o","formatter":{"id":"2712"},"ticker":{"id":"2680"}},"id":"2679","type":"LinearAxis"},{"attributes":{"fill_alpha":{"value":0.5},"fill_color":{"value":"blue"},"line_color":{"value":"blue"},"size":{"units":"screen","value":7},"x":{"field":"YEAR"},"y":{"field":"PBI"}},"id":"2732","type":"Circle"},{"attributes":{"source":{"id":"2665"}},"id":"2750","type":"CDSView"},{"attributes":{"source":{"id":"2665"}},"id":"2721","type":"CDSView"},{"attributes":{"fill_color":{"value":"green"},"line_color":{"value":"green"},"top":{"field":"BIAS"},"width":{"value":0.5},"x":{"field":"YEAR"}},"id":"2748","type":"VBar"},{"attributes":{},"id":"2673","type":"DataRange1d"},{"attributes":{"data_source":{"id":"2665"},"glyph":{"id":"2746"},"hover_glyph":{"id":"2748"},"muted_glyph":null,"nonselection_glyph":{"id":"2747"},"selection_glyph":null,"view":{"id":"2750"},"y_range_name":"y2"},"id":"2749","type":"GlyphRenderer"},{"attributes":{"fill_alpha":{"value":0.1},"fill_color":{"value":"red"},"line_alpha":{"value":0.1},"line_color":{"value":"red"},"size":{"units":"screen","value":7},"x":{"field":"YEAR"},"y":{"field":"PBI_K"}},"id":"2738","type":"Circle"},{"attributes":{"text":"Crecimiento promedio PBI (K): 3.5%","text_font_size":"10pt","x":2003.5,"y":775},"id":"2666","type":"Label"}],"root_ids":["2668"]},"title":"Bokeh Application","version":"2.0.2"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            var fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  var docs_json = document.getElementById('2869').textContent;
+                  var render_items = [{"docid":"53fbdb5c-a9b6-4c89-975a-e8d507dd7e4e","root_ids":["2668"],"roots":{"2668":"4c60e324-d486-4868-b563-42912e2b69d7"}}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    var attempts = 0;
+                    var timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        clearInterval(timer);
+                        embed_document(root);
+                      } else {
+                        attempts++;
+                        if (attempts > 100) {
+                          clearInterval(timer);
+                          console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                        }
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    
+  </body>
+  
+</html>
