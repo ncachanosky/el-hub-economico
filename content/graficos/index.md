@@ -77,4 +77,4 @@ header:
 
 
 Test shortcode
-{{% bokeh "PBI Real.json" %}}
+{{% bokeh "content\graficos\PBI Real.json" %}}
