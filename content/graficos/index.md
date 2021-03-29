@@ -79,7 +79,3 @@ header:
 Test shortcode
 1
 {{% bokeh "PBI Real.json" %}}
-
-
-5
-{{% bokeh "content/graficos/PBI Real.json" %}}
