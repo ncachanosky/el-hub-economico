@@ -76,18 +76,5 @@ header:
 {{< figure src="Fig_17_EFW.png" >}}
 
 
-Test shortcode
-1
+
 {{% bokeh "PBI real.json" %}}
-
-<iframe> src="/static/Jupyter Notebooks/PBI-K vs PBI.html" </iframe>>
-
-<iframe> src="/Jupyter Notebooks/PBI-K vs PBI.html" </iframe>>
-
-<iframe> src="/PBI-K vs PBI.html" </iframe>>
-
-<iframe> src="Jupyter Notebooks/PBI-K vs PBI.html" </iframe>>
-
-<iframe> src="Jupyer Notebooks/PBI-K vs PBI.html" </iframe>>
-
-<iframe> src="PBI-K vs PBI.html" </iframe>>
