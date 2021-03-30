@@ -1,4 +1,4 @@
-{{ $item := $.Page.GetMatch (.Get 0)}}
+{{ $item := $.Page.Resources.GetMatch (.Get 0)}}
 <div id="{{ .Get 0 }}">
   <script charset="utf-8" type="text/javascript">
     var xmlhttp = new XMLHttpRequest();

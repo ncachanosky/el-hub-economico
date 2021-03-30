@@ -78,3 +78,10 @@ header:
 
 
 {{% bokeh "PBI real.json" %}}
+
+
+<iframe seamless src="/PBI-K vs PBI.html"></iframe>
+
+<iframe seamless src="\PBI-K vs PBI.html"></iframe>
+
+<iframe seamless src="PBI-K vs PBI.html"></iframe>
