@@ -78,4 +78,4 @@ header:
 
 Test shortcode
 1
-{{% bokeh "Jupyter Notebooks/PBI real.json" %}}
+{{% bokeh "PBI real.json" %}}
