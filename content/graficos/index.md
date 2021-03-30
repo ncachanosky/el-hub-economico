@@ -81,4 +81,6 @@ header:
 
 <iframe src="https://github.com/ncachanosky/el-hub-economico/blob/master/static/Jupyter%20Notebooks/PBI%20real.html" > <\iframe>
 
-<iframe src="PBI-K vs PBI.html" > <\iframe>
+<iframe src="static/Jupyter Notebooks/PBI real.html" > <\iframe>
+
+<iframe src="Jupyter Notebooks/PBI real.html" > <\iframe>
