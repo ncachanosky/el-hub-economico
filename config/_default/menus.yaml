@@ -16,5 +16,8 @@ main:
   - name: Gráficos
     url: 'graficos/'
     weight: 40
+  - name: Test
+    url: 'test/'
+    weight: 50
 
 
