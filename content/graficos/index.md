@@ -77,6 +77,6 @@ header:
 
 
 
-{{% bokeh "PBI real.json" %}}
+{{< bokeh "pbi real.json" >}}
 
 
