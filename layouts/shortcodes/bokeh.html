@@ -1,16 +1,18 @@
-{{ $item := $.Page.Resources.GetMatch (.Get 0)}}
-<div id="{{ .Get 0 }}">
-  <script charset="utf-8" type="text/javascript">
-    var xmlhttp = new XMLHttpRequest();
-    xmlhttp.onreadystatechange = function() {
-      if (this.readyState == 4 && this.status == 200) {
-        var item = JSON.parse(this.responseText);
-        Bokeh.embed.embed_item(item, "{{ .Get 0 }}");
-      }
-    };
-    xmlhttp.open("GET", "{{ $item.RelPermalink }}", true);
-    xmlhttp.send(); 
-  </script>
-</div>
-
+{{- with .Get 0 -}}
+  {{- $path := . -}}
+  {{- $id :=  anchorize . -}}
+  {{- with $.Page.Resources.GetMatch $path -}}
+    {{- $json := .Content | safeJS -}}
+    <div id="{{ $id }}">
+      <script>
+        var item = JSON.parse({{ $json }});
+        Bokeh.embed.embed_item(item, {{ $id }});
+      </script>
+    </div>
+  {{- else -}}
+    {{- errorf "The %s shortcode was unable to find %s. See %s" $.Name $path $.Position -}}
+  {{- end -}}
+{{- else -}}
+  {{- errorf "The %s shortcode requires a single positional parameter. See %s" $.Name $.Position -}}
+{{- end -}}
 

@@ -75,8 +75,4 @@ header:
 
 {{< figure src="Fig_17_EFW.png" >}}
 
-
-
 {{< bokeh "pbi_real.json" >}}
-
-
