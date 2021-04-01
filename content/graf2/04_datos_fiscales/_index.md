@@ -12,6 +12,6 @@ type: book  # Do not modify.
 
 ## Gráfico 1
 
-{{< bokeh datos_fiscales.json >}}
+{{< bokeh deuda_publica.json >}}
 
 > FUENTE: [Ministerio de Economía | Secretaría de Finanzas](https://www.argentina.gob.ar/economia/finanzas/presentaciongraficadeudapublica)
