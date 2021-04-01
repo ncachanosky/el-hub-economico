@@ -10,7 +10,7 @@ type: book  # Do not modify.
 
 {{< toc >}}
 
-## Gráfico 1
+## Gráfico 1: Deuda de la administración central
 
 {{< bokeh deuda_publica.json >}}
 
