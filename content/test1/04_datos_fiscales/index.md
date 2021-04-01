@@ -1,10 +1,10 @@
 ---
 # Title, summary, and page position.
-linktitle: "empleo_pobreza"
-weight: 2
+linktitle: "Agergados monetarios y precios"
+weight: 4
 
 # Page metadata.
-title: Mercado laboral y pobreza
+title: Agregados monetarios y precios
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---

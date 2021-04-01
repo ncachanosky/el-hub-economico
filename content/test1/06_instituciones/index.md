@@ -1,10 +1,10 @@
 ---
 # Title, summary, and page position.
-linktitle: "empleo_pobreza"
-weight: 2
+linktitle: "Series institucionales"
+weight: 6
 
 # Page metadata.
-title: Mercado laboral y pobreza
+title: Series institucionales
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
