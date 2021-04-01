@@ -8,6 +8,6 @@ title: Series institucionales
 type: book  # Do not modify.
 ---
 
-{{ toc }}
+{{< toc >}}
 
 ## Gráfico 1

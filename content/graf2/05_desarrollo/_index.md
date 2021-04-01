@@ -8,6 +8,6 @@ title: Desarrollo y series de largo plazo
 type: book  # Do not modify.
 ---
 
-{{ toc }}
+{{< toc >}}
 
 ## Gráfico 1

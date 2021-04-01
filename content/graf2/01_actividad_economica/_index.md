@@ -13,7 +13,7 @@ type: book  # Do not modify.
 
 ---
 
-{{ toc }}
+{{< toc >}}
 
 ## Gráfico 1
 
