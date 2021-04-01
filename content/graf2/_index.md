@@ -1,5 +1,5 @@
 ---
-title: "ECONOMETRICS"
+title: "DATOS EN GRÁFICOS"
 type: book  # Do not modify.
 ---
 

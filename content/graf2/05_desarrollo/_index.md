@@ -1,11 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: "Model specification"
+linktitle: "Desarrollo y series de largo plazo"
 weight: 6
 
 # Page metadata.
-title: Model specification
+title: Desarrollo y series de largo plazo
 type: book  # Do not modify.
 ---
 
-{{< list_children >}}
+{{ toc }}
+
+## Gráfico 1

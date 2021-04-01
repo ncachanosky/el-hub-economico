@@ -1,11 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: "Hypothesis testing"
+linktitle: "Datos fiscales"
 weight: 5
 
 # Page metadata.
-title: Hypothesis testing
+title: Datos fiscales
 type: book  # Do not modify.
 ---
 
-{{< list_children >}}
+{{ toc }}
+
+## Gráfico 1

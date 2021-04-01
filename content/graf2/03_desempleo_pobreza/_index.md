@@ -1,11 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: "The Classical Model"
+linktitle: "Mercado laboral y pobreza"
 weight: 4
 
 # Page metadata.
-title: The Classical Model
+title: Mercado laboral y pobreza
 type: book  # Do not modify.
 ---
 
-{{< list_children >}}
+{{ toc }}
+
+## Gráfico 1

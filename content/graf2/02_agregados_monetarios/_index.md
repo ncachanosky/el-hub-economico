@@ -1,11 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: "Ordinary Least Squares (OLS)"
+linktitle: "Mercado laboral y pobreza"
 weight: 3
 
 # Page metadata.
-title: Ordinary Least Squares (OLS)
+title: Mercado laboral y pobreza
 type: book  # Do not modify.
 ---
 
-{{< list_children >}}
+{{ toc }}
+
+## Gráfico 1

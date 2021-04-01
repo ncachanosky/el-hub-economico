@@ -1,11 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: "Multicollinearity"
+linktitle: "Series institucionales"
 weight: 7
 
 # Page metadata.
-title: Multicollinearity
+title: Series institucionales
 type: book  # Do not modify.
 ---
 
-{{< list_children >}}
+{{ toc }}
+
+## Gráfico 1
