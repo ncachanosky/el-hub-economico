@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: "empleo_pobreza"
+linktitle: "Mercado laboral y pobreza"
 weight: 2
 
 # Page metadata.
