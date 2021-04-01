@@ -15,9 +15,9 @@ Las series gráficas se agrupan de la siguiente manera:
 
 ## Cómo contribuir
 
-* Errores u omisiones
-* Nuevas fuentes de datos a incluir
-* Nuevos gráficos
+* [Errores u omisiones](https://github.com/ncachanosky/el-hub-economico/issues)
+* [Nuevas fuentes de datos a incluir](https://github.com/ncachanosky/el-hub-economico/issues)
+* [Nuevos gráficos](https://github.com/ncachanosky/el-hub-economico/issues)
 * [Sponsorear](https://github.com/sponsors/ncachanosky) el proyecto
 
 ## Cómo se construye el Hub Económico
