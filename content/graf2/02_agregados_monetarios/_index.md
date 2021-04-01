@@ -10,4 +10,6 @@ type: book  # Do not modify.
 
 {{< toc >}}
 
+---
+
 ## Gráfico 1
