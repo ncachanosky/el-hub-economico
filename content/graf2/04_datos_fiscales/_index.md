@@ -27,7 +27,7 @@ type: book  # Do not modify.
 
 ## Gráfico 2: Gasto del tesoro nacional (pesos del 2002 | 2002 = 100)
 
-{{< bokeh dgasto_tesoro_100.json >}}
+{{< bokeh gasto_tesoro_100.json >}}
 
 > * FUENTES: 
 >   * Ministerio de Economía | [Boletín Fiscal](https://www.economia.gob.ar/onp/ejecucion/2020)
