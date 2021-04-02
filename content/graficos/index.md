@@ -74,5 +74,3 @@ header:
 ### Gráfico 17
 
 {{< figure src="Fig_17_EFW.png" >}}
-
-{{< bokeh "pbi_real.json" >}}
