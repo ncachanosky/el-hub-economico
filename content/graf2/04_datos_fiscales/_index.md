@@ -38,4 +38,5 @@ type: book  # Do not modify.
 
 {{< bokeh deuda_publica.json >}}
 
-> FUENTE: [Ministerio de Economía | Secretaría de Finanzas](https://www.argentina.gob.ar/economia/finanzas/presentaciongraficadeudapublica)
+> * FUENTE 
+>   * Ministerio de Economía | [Secretaría de Finanzas](https://www.argentina.gob.ar/economia/finanzas/presentaciongraficadeudapublica)
