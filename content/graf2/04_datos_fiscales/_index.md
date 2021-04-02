@@ -12,7 +12,7 @@ type: book  # Do not modify.
 
 ---
 
-## Gráfico 2: Déficiti fiscal (nación y consolidado) (1961 - 2019)
+## Gráfico 1: Déficiti fiscal (nación y consolidado) (1961 - 2019)
 
 {{< bokeh fiscal_deficit.json >}}
 
@@ -23,6 +23,7 @@ type: book  # Do not modify.
 > ---
 > **Nota metodológica**: Al resultado financiero oficial se le substraen las transferencias de ANSES y BCRA que, bajo período 2003 - 2017 se contabilizaban como ingresos "regulares" del Tesoro Nacional. Por consistencia se substrean los mismos montos para los años anteriores al 2003 (montos sin impacto substancial en el resultado fiscal del Tesoro). El resultado fiscal también substrae los intereses intra sector público
 
+---
 
 ## Gráfico 2: Deuda de la administración central
 
