@@ -32,6 +32,7 @@ type: book  # Do not modify.
 > * FUENTES: 
 >   * Ministerio de Economía | [Boletín Fiscal](https://www.economia.gob.ar/onp/ejecucion/2020)
 >   * Cálculos del autor
+> 
 ---
 
 ## Gráfico 3: Deuda de la administración central
@@ -40,3 +41,12 @@ type: book  # Do not modify.
 
 > * FUENTE 
 >   * Ministerio de Economía | [Secretaría de Finanzas](https://www.argentina.gob.ar/economia/finanzas/presentaciongraficadeudapublica)
+
+---
+
+## Gráfico 4: Gasto consolidado por nivel de gobierno (1980 - 2017)
+
+{{< bokeh gasto_consolidado_nivel.json >}}
+
+> * FUENTE 
+>   * Ministerio de Economía | [Secretaría de Política Económica](https://www.argentina.gob.ar/economia/politicaeconomica/macroeconomica/gastopublicoconsolidado)
