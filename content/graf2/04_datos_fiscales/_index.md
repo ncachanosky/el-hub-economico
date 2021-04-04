@@ -32,15 +32,16 @@ type: book  # Do not modify.
 > * FUENTES: 
 >   * Ministerio de Economía | [Boletín Fiscal](https://www.economia.gob.ar/onp/ejecucion/2020)
 >   * Cálculos del autor
-> 
+
 ---
 
-## Gráfico 3: Deuda de la administración central
+## Gráfico 3: Interese sobre intresos del Tesoro National
 
-{{< bokeh deuda_publica.json >}}
+{{< bokeh intereses_ingresos.json >}}
 
 > * FUENTE 
->   * Ministerio de Economía | [Secretaría de Finanzas](https://www.argentina.gob.ar/economia/finanzas/presentaciongraficadeudapublica)
+>   * Ministerio de Economía | [Boletín Fiscal](https://www.economia.gob.ar/onp/ejecucion/2020)
+>   * Cálculos del autor
 
 ---
 
@@ -59,3 +60,12 @@ type: book  # Do not modify.
 
 > * FUENTE 
 >   * Ministerio de Economía | [Secretaría de Política Económica](https://www.argentina.gob.ar/economia/politicaeconomica/macroeconomica/gastopublicoconsolidado)
+
+---
+
+## Gráfico 6: Deuda de la administración central
+
+{{< bokeh deuda_publica.json >}}
+
+> * FUENTE 
+>   * Ministerio de Economía | [Secretaría de Finanzas](https://www.argentina.gob.ar/economia/finanzas/presentaciongraficadeudapublica)
