@@ -50,3 +50,12 @@ type: book  # Do not modify.
 
 > * FUENTE 
 >   * Ministerio de Economía | [Secretaría de Política Económica](https://www.argentina.gob.ar/economia/politicaeconomica/macroeconomica/gastopublicoconsolidado)
+
+---
+
+## Gráfico 5: Gasto consolidado por finalidad (1980 - 2017)
+
+{{< bokeh gasto_consolidado_finalidad.json >}}
+
+> * FUENTE 
+>   * Ministerio de Economía | [Secretaría de Política Económica](https://www.argentina.gob.ar/economia/politicaeconomica/macroeconomica/gastopublicoconsolidado)
