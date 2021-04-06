@@ -69,3 +69,13 @@ type: book  # Do not modify.
 
 > * FUENTE 
 >   * Ministerio de Economía | [Secretaría de Finanzas](https://www.argentina.gob.ar/economia/finanzas/presentaciongraficadeudapublica)
+
+---
+
+## Gráfico 7: Tiempo en default o bajo reestructuración desde la independecia y la Segunda Guerra Mundial
+
+{{< bokeh tiempo_en_default.json >}}
+
+> * FUENTE 
+>   * Reinhart & Rogoff, [*This Time is Different: Eight Centuries of Financial Folly*](https://scholar.harvard.edu/rogoff/time-different%E2%80%94data-files). Princeton and Oxford: Princeton University Press
+>   * Cálculos del autor
