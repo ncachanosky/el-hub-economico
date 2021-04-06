@@ -8,8 +8,6 @@ title: Datos fiscales
 type: book  # Do not modify.
 ---
 
-{{< toc >}}
-
 ---
 
 ## Gráfico 1: Déficiti fiscal (nación y consolidado) (1961 - 2019)
