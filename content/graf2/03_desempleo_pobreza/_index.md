@@ -8,7 +8,6 @@ title: Mercado laboral y pobreza
 type: book  # Do not modify.
 ---
 
-{{< toc >}}
 
 ---
 
