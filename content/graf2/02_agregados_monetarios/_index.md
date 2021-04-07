@@ -16,4 +16,4 @@ type: book  # Do not modify.
 
 > * FUENTE:
 >   * [Instituto Nacional de Estadsticas y Censos (INDEC)](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-9-47)
->   * Los datos del "IPC Congreso* fueron recolectados de manera manual por el autor
+>   * Los datos del *IPC Congreso* fueron recolectados de manera manual por el autor
