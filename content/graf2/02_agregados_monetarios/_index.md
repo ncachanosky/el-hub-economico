@@ -22,7 +22,7 @@ type: book  # Do not modify.
 
 # Gráfico 2: Agregados monetarios e IPC
 
-{{< bokeh ageregados_monetarios_ipc.json >}}
+{{< bokeh agregados_monetarios_ipc.json >}}
 
 > * FUENTE:
 >   * [Instituto Nacional de Estadsticas y Censos (INDEC)](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-9-47)
