@@ -16,7 +16,7 @@ type: book  # Do not modify.
 
 > * FUENTES:
 >   * [Instituto Nacional de Estadsticas y Censos (INDEC)](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-9-47)
->   * Los datos del **IPC Congreso** fueron recolectados de manera manual por el autor
+>   * IPC Congreso: Recolección manual por parte del autor
 
 ---
 
@@ -26,7 +26,7 @@ type: book  # Do not modify.
 
 > * FUENTE:
 >   * [Instituto Nacional de Estadsticas y Censos (INDEC)](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-9-47)
->   * IPC Congreso
+>   * IPC Congreso: Recolección manual por parte del autor
 >   * Cálculos del autor
 > ---
 > **Nota metodológica**: La serie IPC fue corregida con datos de la "Inflación Congreso" para el período enero 2007 - diciembre 2015.
@@ -39,7 +39,7 @@ type: book  # Do not modify.
 
 > * FUENTE:
 >   * [Instituto Nacional de Estadsticas y Censos (INDEC)](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-9-47)
->   * IPC Congreso
+>   * IPC Congreso: Recolección manual por parte del autor
 >   * Cálculos del autor
 > ---
 > **Nota metodológica**: La serie IPC fue corregida con datos de la "Inflación Congreso" para el período enero 2007 - diciembre 2015. La serie estima el tiempo que tarda en duplicarse el nivel de precios con la tasa de inflación interanual de cada período.
