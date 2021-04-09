@@ -20,7 +20,7 @@ type: book  # Do not modify.
 
 ---
 
-# Gráfico 2: Agregados monetarios e IPC
+## Gráfico 2: Agregados monetarios e IPC
 
 {{< bokeh agregados_monetarios_ipc.json >}}
 
