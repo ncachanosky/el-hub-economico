@@ -57,4 +57,4 @@ Associate Professor of Economics
 Metropolitan State University of Denver
 
 Senior Fellow  
-American Institute for Economic Research
+[American Institute for Economic Research](https://www.aier.org/)
