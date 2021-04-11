@@ -4,17 +4,20 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
+  - name: La Economía Argentina en Gráficos
+    url: 'graficos/'
+    weight: 10
   - name: Fuentes Oficiales
     url: 'fuentes_oficiales/'
-    weight: 10
+    weight: 20
   - name: Fuentes Privadas
     url: 'fuentes_privadas/'
-    weight: 20
+    weight: 30
   - name: Fuentes Internacionales
     url: 'fuentes_internacionales/'
-    weight: 30
+    weight: 40
   - name: Gráficos
     url: 'graficos/'
-    weight: 40
+    weight: 50
 
 
