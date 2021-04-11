@@ -8,6 +8,10 @@ title: Datos fiscales
 type: book  # Do not modify.
 ---
 
+{{% callout note %}}
+Página en desarrollo
+{{% /callout %}}
+
 ---
 
 ## Gráfico 1: Déficiti fiscal (nación y consolidado) (1961 - 2019)
@@ -77,7 +81,3 @@ type: book  # Do not modify.
 > * FUENTE 
 >   * Reinhart & Rogoff, [*This Time is Different: Eight Centuries of Financial Folly*](https://scholar.harvard.edu/rogoff/time-different%E2%80%94data-files). Princeton and Oxford: Princeton University Press
 >   * Cálculos del autor
-
-{{% callout note %}}
-En construcción
-{{% /callout %}}

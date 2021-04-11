@@ -8,11 +8,10 @@ title: Mercado laboral y pobreza
 type: book  # Do not modify.
 ---
 
+{{% callout note %}}
+Página en desarrollo
+{{% /callout %}}
 
 ---
 
 ## Gráfico 1
-
-{{% callout note %}}
-En construcción
-{{% /callout %}}

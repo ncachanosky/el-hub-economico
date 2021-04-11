@@ -11,14 +11,13 @@ type: book  # Do not modify.
 
 ---
 
+{{% callout note %}}
+Página en desarrollo
+{{% /callout %}}
+
 ## Gráfico 1: PBI real (1994 - 2019)
 
 {{< bokeh pbi_real.json >}}
 
 > * FUENTE:
 >   * [Instituto Nacional de Estadísticas y Censos (INDEC)](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-9-47)
-
-
-{{% callout note %}}
-En construcción
-{{% /callout %}}

@@ -8,12 +8,10 @@ title: Series institucionales
 type: book  # Do not modify.
 ---
 
-{{< toc >}}
+{{% callout note %}}
+Página en desarrollo
+{{% /callout %}}
 
 ---
 
 ## Gráfico 1
-
-{{% callout note %}}
-En construcción
-{{% /callout %}}
