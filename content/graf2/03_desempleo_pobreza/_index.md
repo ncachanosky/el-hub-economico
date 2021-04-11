@@ -12,3 +12,7 @@ type: book  # Do not modify.
 ---
 
 ## Gráfico 1
+
+{{% callout note %}}
+En construcción
+{{% /callout %}}

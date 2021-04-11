@@ -1,10 +1,10 @@
 ---
 # Title, summary, and page position.
-linktitle: "Agregdos monetarios y precios"
+linktitle: "Agregados monetarios y precios"
 weight: 2
 
 # Page metadata.
-title: Agregdos monetarios y precios
+title: Agregados monetarios y precios
 type: book  # Do not modify.
 ---
 
@@ -57,3 +57,7 @@ type: book  # Do not modify.
 > **Nota metodológica**: La serie incluye estimación del swap con el banco central de China.  
 > Reservas Netas I:  Reservas netas de depósitos en dólares y de depósitos del gobierno para el fortalecimiento de reservas. Reservas.  
 > Reservas Netas II: Reservas Netas I netas de Organismos Internacionales, DEG, Deuda Multilateral, Swaps, Cedines, y Lebacs (en dólares).
+
+{{% callout note %}}
+En construcción
+{{% /callout %}}
