@@ -5,6 +5,4 @@ type: book  # Do not modify.
 
 ---
 
-{{% callout note %}}
-Página en desarrollo
-{{% /callout %}}
+{{< list_children >}}
