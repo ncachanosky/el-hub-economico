@@ -31,7 +31,7 @@ type: book  # Do not modify.
 * Gráfico 6: Deuda de la administración central
 * Gráfico 7: Tiempo en default o bajo reestructuración desde la independecia y la Segunda Guerra Mundial
 
-## [Comercio internacional]
+## [Comercio internacional](https://www.elhubeconomico.com/graficos/06_desarrollo/)
 
 * *En desarrollo*
 
