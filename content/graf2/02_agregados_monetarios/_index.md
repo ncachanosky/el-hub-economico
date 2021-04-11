@@ -15,7 +15,7 @@ type: book  # Do not modify.
 {{< bokeh inflacion_interanual.json >}}
 
 > * FUENTES:
->   * [Instituto Nacional de Estadsticas y Censos (INDEC)](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-9-47)
+>   * [Instituto Nacional de Estadísticas y Censos (INDEC)](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-9-47)
 >   * IPC Congreso: Recolección manual por parte del autor
 
 ---
@@ -25,7 +25,7 @@ type: book  # Do not modify.
 {{< bokeh agregados_monetarios_ipc.json >}}
 
 > * FUENTE:
->   * [Instituto Nacional de Estadsticas y Censos (INDEC)](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-9-47)
+>   * [Instituto Nacional de Estadísticas y Censos (INDEC)](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-9-47)
 >   * IPC Congreso: Recolección manual por parte del autor
 >   * Cálculos del autor
 > ---
@@ -38,7 +38,7 @@ type: book  # Do not modify.
 {{< bokeh precios_x2.json >}}
 
 > * FUENTE:
->   * [Instituto Nacional de Estadsticas y Censos (INDEC)](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-9-47)
+>   * [Instituto Nacional de Estadísticas y Censos (INDEC)](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-9-47)
 >   * IPC Congreso: Recolección manual por parte del autor
 >   * Cálculos del autor
 > ---
@@ -54,6 +54,6 @@ type: book  # Do not modify.
 >   * [Balance semanal del BCRA](http://www.bcra.gob.ar/PublicacionesEstadisticas/balances_semanales.asp)
 >   * Cálculos del autor
 > ---
-> **Nota metodológica**: La serie incluye estimación del swap con el banco central de China.
-> Reservas Netas I:  Reservas netas de depósitos en dólares y de depósitos del gobierno para el fortalecimiento de reservas. Reservas.
+> **Nota metodológica**: La serie incluye estimación del swap con el banco central de China.  
+> Reservas Netas I:  Reservas netas de depósitos en dólares y de depósitos del gobierno para el fortalecimiento de reservas. Reservas.  
 > Reservas Netas II: Reservas Netas I netas de Organismos Internacionales, DEG, Deuda Multilateral, Swaps, Cedines, y Lebacs (en dólares).
