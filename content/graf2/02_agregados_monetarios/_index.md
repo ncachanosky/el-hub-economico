@@ -67,7 +67,7 @@ Página en desarrollo
 
 ## Gráfico 5: Pasivos del BCRA
 
-{{< pasivos_bcra.json >}}
+{{< bokeh pasivos_bcra.json >}}
 
 > * FUENTE:
 >   * [Balance semanal del BCRA](http://www.bcra.gob.ar/PublicacionesEstadisticas/balances_semanales.asp)
