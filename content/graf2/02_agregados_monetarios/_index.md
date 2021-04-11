@@ -8,6 +8,10 @@ title: Agregados monetarios y precios
 type: book  # Do not modify.
 ---
 
+{{% callout note %}}
+Página en desarrollo
+{{% /callout %}}
+
 ---
 
 ## Gráfico 1: Inflación interanual
@@ -58,9 +62,13 @@ type: book  # Do not modify.
 > Reservas Netas I:  Reservas netas de depósitos en dólares y de depósitos del gobierno para el fortalecimiento de reservas. Reservas.  
 > Reservas Netas II: Reservas Netas I netas de Organismos Internacionales, DEG, Deuda Multilateral, Swaps, Cedines, y Lebacs (en dólares).
 
-{{% callout note %}}
-En construcción
-{{% /callout %}}
 
+---
 
+## Gráfico 5: Pasivos del BCRA
 
+{{< pasivos_bcra.json >}}
+
+> * FUENTE:
+>   * [Balance semanal del BCRA](http://www.bcra.gob.ar/PublicacionesEstadisticas/balances_semanales.asp)
+>   * Cálculos del autor
