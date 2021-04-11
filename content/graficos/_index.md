@@ -19,6 +19,8 @@ type: book  # Do not modify.
 
 ## [Mercado laboral y pobreza](https://www.elhubeconomico.com/graficos/03_desempleo_pobreza/)
 
+* *En desarrollo*
+
 ## [Datos fiscales](https://www.elhubeconomico.com/graficos/04_datos_fiscales/)
 
 * Gráfico 1: Déficiti fiscal (nación y consolidado) (1961 - 2019)
@@ -31,4 +33,8 @@ type: book  # Do not modify.
 
 ## [Desarrollo y series de largo plazo](https://www.elhubeconomico.com/graficos/05_desarrollo/)
 
+* *En desarrollo*
+
 ## [Series institucionales](https://www.elhubeconomico.com/graficos/06_instituciones/)
+
+* *En desarrollo* 
