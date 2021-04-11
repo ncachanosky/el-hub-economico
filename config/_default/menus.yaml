@@ -16,8 +16,5 @@ main:
   - name: Fuentes Internacionales
     url: 'fuentes_internacionales/'
     weight: 40
-  - name: Gráficos
-    url: 'graficos/'
-    weight: 50
 
 
