@@ -63,5 +63,5 @@ En construcción
 {{% /callout %}}
 
 
-{{< bokeh static/Jupyter Notebooks/reservas.json >}}
+{{< bokeh static/Jupyter_Notebooks/reservas.json >}}
 
