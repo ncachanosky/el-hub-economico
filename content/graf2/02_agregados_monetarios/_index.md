@@ -43,3 +43,17 @@ type: book  # Do not modify.
 >   * Cálculos del autor
 > ---
 > **Nota metodológica**: La serie IPC fue corregida con datos de la "Inflación Congreso" para el período enero 2007 - diciembre 2015. La serie estima el tiempo que tarda en duplicarse el nivel de precios con la tasa de inflación interanual de cada período.
+
+---
+
+## Gráfico 4: Reservas del BCRA
+
+{{< bokeh reservas.json >}}
+
+> * FUENTE:
+>   * [Balance semanal del BCRA](http://www.bcra.gob.ar/PublicacionesEstadisticas/balances_semanales.asp)
+>   * Cálculos del autor
+> ---
+> **Nota metodológica**: La serie incluye estimación del swap con el banco central de China.
+> Reservas Netas I:  Reservas netas de depósitos en dólares y de depósitos del gobierno para el fortalecimiento de reservas. Reservas.
+> Reservas Netas II: Reservas Netas I netas de Organismos Internacionales, DEG, Deuda Multilateral, Swaps, Cedines, y Lebacs (en dólares).
