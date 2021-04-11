@@ -61,3 +61,7 @@ type: book  # Do not modify.
 {{% callout note %}}
 En construcción
 {{% /callout %}}
+
+
+{{< bokeh static/Jupyter Notebooks/reservas.json >}}
+
