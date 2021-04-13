@@ -89,5 +89,5 @@ Bienvenidos a **El Hub Económico**. Este sitio provee un índice variables econ
 Associate Professor of Economics  
 Metropolitan State University of Denver
 
-Senior Sound Money Project Fellow  
+Sound Money Project | Senior Fellow  
 [American Institute for Economic Research](https://www.aier.org/)
