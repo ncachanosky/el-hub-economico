@@ -1,10 +1,10 @@
 ---
 # Title, summary, and page position.
-linktitle: "Desarrollo y series de largo plazo"
-weight: 6
+linktitle: "Comercio internacional"
+weight: 5
 
 # Page metadata.
-title: Desarrollo y series de largo plazo
+title: Comercio internacional
 type: book  # Do not modify.
 ---
 
