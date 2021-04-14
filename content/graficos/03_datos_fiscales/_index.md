@@ -74,7 +74,7 @@ Página en desarrollo
 
 ---
 
-## Gráfico 7: Tiempo en default o bajo reestructuración desde la independecia y la Segunda Guerra Mundial
+## Gráfico 7: Tiempo en default o bajo reestructuración desde la independencia y la Segunda Guerra Mundial
 
 {{< bokeh tiempo_en_default.json >}}
 
