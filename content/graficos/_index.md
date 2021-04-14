@@ -8,6 +8,7 @@ type: book  # Do not modify.
 ## [Actividad económica](https://www.elhubeconomico.com/graficos/01_actividad_economica/)
 
 * Gráfico 1: PBI real (1994 - 2019)
+* *En desarrollo*
 
 ## [Agregados monetarios y precios](https://www.elhubeconomico.com/graficos/02_agregados_monetarios/)
 
@@ -16,6 +17,7 @@ type: book  # Do not modify.
 * Gráfico 3: Tiempo en que se duplica el nivel de precios
 * Gráfico 4: Reservas del BCRA
 * Gráfico 5: Pasivos del BCRA
+* *En desarrollo*
 
 ## [Mercado laboral y pobreza](https://www.elhubeconomico.com/graficos/03_desempleo_pobreza/)
 
@@ -29,7 +31,8 @@ type: book  # Do not modify.
 * Gráfico 4: Gasto consolidado por nivel de gobierno (1980 - 2017)
 * Gráfico 5: Gasto consolidado por finalidad (1980 - 2017)
 * Gráfico 6: Deuda de la administración central
-* Gráfico 7: Tiempo en default o bajo reestructuración desde la independecia y la Segunda Guerra Mundial
+* Gráfico 7: Tiempo en default o bajo reestructuración desde la independencia y la Segunda Guerra Mundial
+* *En desarrollo*
 
 ## [Comercio internacional](https://www.elhubeconomico.com/graficos/06_desarrollo/)
 
@@ -38,6 +41,7 @@ type: book  # Do not modify.
 ## [Desarrollo y series de largo plazo](https://www.elhubeconomico.com/graficos/05_desarrollo/)
 
 * Gráfico 1: PBI per capita real (2011 US$) (ranking mundial)
+* *En desarrollo*
 
 ## [Series institucionales](https://www.elhubeconomico.com/graficos/06_instituciones/)
 
