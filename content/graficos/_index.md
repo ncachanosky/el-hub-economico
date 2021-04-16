@@ -34,16 +34,16 @@ type: book  # Do not modify.
 * Gráfico 7: Tiempo en default o bajo reestructuración desde la independencia y la Segunda Guerra Mundial
 * *En desarrollo*
 
-## [Comercio internacional](https://www.elhubeconomico.com/graficos/06_desarrollo/)
+## [Comercio internacional](https://www.elhubeconomico.com/graficos/05_internacional/)
 
 * *En desarrollo*
 
-## [Desarrollo y series de largo plazo](https://www.elhubeconomico.com/graficos/05_desarrollo/)
+## [Desarrollo y series de largo plazo](https://www.elhubeconomico.com/graficos/06_desarrollo/)
 
 * Gráfico 1: PBI per capita real (2011 US$) (ranking mundial)
 * *En desarrollo*
 
-## [Series institucionales](https://www.elhubeconomico.com/graficos/06_instituciones/)
+## [Series institucionales](https://www.elhubeconomico.com/graficos/07_instituciones/)
 
 * Gráfico 1: Ministros de Economía (días en ejercicio)
 * Gráfico 2: Presidentes del BCRA (días en ejercicio)
