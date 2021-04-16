@@ -45,4 +45,6 @@ type: book  # Do not modify.
 
 ## [Series institucionales](https://www.elhubeconomico.com/graficos/06_instituciones/)
 
+* Gráfico 1: Ministros de Economía (días en ejercicio)
+* Gráfico 2: Presidentes del BCRA (días en ejercicio)
 * *En desarrollo* 
