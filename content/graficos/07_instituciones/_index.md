@@ -14,4 +14,18 @@ Página en desarrollo
 
 ---
 
-## Gráfico 1
+## Gráfico 1: Ministros de Economía (días en ejercicio)
+
+{{< bokeh ministros_dias.json >}}
+
+> * FUENTES:
+>   * Cálculos del autor
+
+---
+
+## Gráfico 2: Presidentes del BCRA (días en ejercicio)
+
+{{< bokeh bcra_dias.json >}}
+
+> * FUENTES:
+>   * Cálculos del autor
