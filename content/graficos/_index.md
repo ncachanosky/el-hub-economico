@@ -40,7 +40,8 @@ type: book  # Do not modify.
 
 ## [Desarrollo y series de largo plazo](https://www.elhubeconomico.com/graficos/06_desarrollo/)
 
-* Gráfico 1: PBI per capita real (2011 US$) (ranking mundial)
+* Gráfico 1: PBI per capita real PPP (2011 US$)
+* Gráfico 2: PBI per capita real PPP (2011 US$) (ranking mundial)
 * *En desarrollo*
 
 ## [Series institucionales](https://www.elhubeconomico.com/graficos/07_instituciones/)
