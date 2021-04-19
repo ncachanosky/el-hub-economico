@@ -14,7 +14,7 @@ Página en desarrollo
 
 ---
 
-## Gráfico 1: PBI per capita real (2011 US$) (ranking mundial)
+## Gráfico 2: PBI per capita real PPP (2011 US$) (ranking mundial)
 
 {{< bokeh pbi_ranking.json >}}
 
