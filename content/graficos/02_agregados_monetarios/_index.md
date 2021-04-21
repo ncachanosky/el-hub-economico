@@ -16,7 +16,7 @@ Página en desarrollo
 
 ## Gráfico 1. Agregados monetarios: Variación interanual
 
-{{< bokeh agreegados_monetarios_12m.json >}}
+{{< bokeh agregados_monetarios_12m.json >}}
 
 > * FUENTES:
 >   * [Banco Central de la República Argentina: Balance Semanal](http://www.bcra.gob.ar/PublicacionesEstadisticas/balances_semanales.asp)
