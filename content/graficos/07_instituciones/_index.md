@@ -34,7 +34,7 @@ Página en desarrollo
 
 ## Gráfico 3. Índice de libertad económica
 
-{{< bokeh efw?rank.json >}}
+{{< bokeh efw_rank.json >}}
 
 > * FUENTES:
 >   * [Fraser Institute. *Economic Freedom of the World*](https://www.fraserinstitute.org/economic-freedom/map)
