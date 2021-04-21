@@ -14,7 +14,7 @@ Página en desarrollo
 
 ---
 
-## Gráfico 1: Índice de tipo de cambio real multilateral (17-Ene-12 = 100)
+## Gráfico 1. Índice de tipo de cambio real multilateral (17-Ene-12 = 100)
 
 {{< bokeh itcrm.json >}}
 

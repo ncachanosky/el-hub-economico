@@ -15,7 +15,7 @@ type: book  # Do not modify.
 Página en desarrollo
 {{% /callout %}}
 
-## Gráfico 1: PBI real (1994 - 2019)
+## Gráfico 1. PBI real (1994 - 2019)
 
 {{< bokeh pbi_real.json >}}
 

@@ -14,7 +14,18 @@ Página en desarrollo
 
 ---
 
-## Gráfico 1: Inflación interanual
+## Gráfico 1. Agregados monetarios: Variación interanual
+
+{{< bokeh agreegados_monetarios_12m.json >}}
+
+> * FUENTES:
+>   * [Banco Central de la República Argentina: Balance Semanal](http://www.bcra.gob.ar/PublicacionesEstadisticas/balances_semanales.asp)
+>   * [Banco Central de la República Argentina: Informe Monetario Diario (series históricas)](http://www.bcra.gob.ar/PublicacionesEstadisticas/Informe_monetario_diario.asp)
+>   * [Ministerio de Economía: Datos Económicos (Dinero y Bancos)](https://www.economia.gob.ar/datos/)
+
+---
+
+## Gráfico 2. Inflación interanual
 
 {{< bokeh inflacion_interanual.json >}}
 
@@ -24,7 +35,7 @@ Página en desarrollo
 
 ---
 
-## Gráfico 2: Tiempo en que se duplica el nivel de precios
+## Gráfico 3. Tiempo en que se duplica el nivel de precios
 
 {{< bokeh precios_x2.json >}}
 
@@ -37,7 +48,7 @@ Página en desarrollo
 
 ---
 
-## Gráfico 3: Agregados monetarios e IPC
+## Gráfico 4. Agregados monetarios e IPC
 
 {{< bokeh agregados_monetarios_ipc.json >}}
 
@@ -50,7 +61,7 @@ Página en desarrollo
 
 ---
 
-## Gráfico 4: Reservas del BCRA
+## Gráfico 5. Reservas del BCRA
 
 {{< bokeh reservas.json >}}
 
@@ -65,7 +76,7 @@ Página en desarrollo
 
 ---
 
-## Gráfico 5: Pasivos del BCRA
+## Gráfico 6. Pasivos del BCRA
 
 {{< bokeh pasivos_bcra.json >}}
 
