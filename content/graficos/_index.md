@@ -50,4 +50,5 @@ type: book  # Do not modify.
 
 * Gráfico 1. Ministros de Economía (días en ejercicio)
 * Gráfico 2. Presidentes del BCRA (días en ejercicio)
+* Gráfico 3. Índice de libertad económica
 * *En desarrollo* 

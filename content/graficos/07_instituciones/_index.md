@@ -29,3 +29,12 @@ Página en desarrollo
 
 > * FUENTES:
 >   * Cálculos del autor
+
+---
+
+## Gráfico 3. Índice de libertad económica
+
+{{< bokeh efw?rank.json >}}
+
+> * FUENTES:
+>   * [Fraser Institute. *Economic Freedom of the World*](https://www.fraserinstitute.org/economic-freedom/map)
