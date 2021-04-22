@@ -7,7 +7,8 @@ type: book  # Do not modify.
 
 ## [Actividad económica](https://www.elhubeconomico.com/graficos/01_actividad_economica/)
 
-* Gráfico 1. PBI real (1994 - 2019)
+* Gráfico 1. Estimador Mensual de Actividad Económica (EMAE)
+* Gráfico 2. PBI real (1994 - 2019)
 * *En desarrollo*
 
 ## [Agregados monetarios y precios](https://www.elhubeconomico.com/graficos/02_agregados_monetarios/)
