@@ -15,7 +15,17 @@ type: book  # Do not modify.
 Página en desarrollo
 {{% /callout %}}
 
-## Gráfico 1. PBI real (1994 - 2019)
+---
+
+## Gráfico 1. Estimador Mensual de Actividad Económica (EMAE)
+
+{{< bokeh emae.json >}}
+
+> * FUENTE:
+>   * [Ministerio de Economía | Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
+>   * Cálculos del autor.
+
+## Gráfico 2. PBI real (1994 - 2019)
 
 {{< bokeh pbi_real.json >}}
 
