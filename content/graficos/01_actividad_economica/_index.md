@@ -64,7 +64,7 @@ Página en desarrollo
 >   * [Ministerio de Economía | Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
 > ---
 > **Nota metodológica**: Siendo `VA` valor agregado:  
-> `PBI` =  `VA bruto` + `Impuesto al VA` + `Derechos a las importacIones` + `Impuestos netos de subsidios`    
+> `PBI` =  `VA bruto` + `Impuesto al VA` + `Derechos a las importacIones` + `Impuestos netos de subsidios`
 > `VA bruto` = $\sum$ `VA por sector`
 
 ---
