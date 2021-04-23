@@ -9,7 +9,8 @@ type: book  # Do not modify.
 
 * Gráfico 1. Estimador Mensual de Actividad Económica (EMAE)
 * Gráfico 2. PBI real (1994 - 2019)
-* Gráfico 3. PBI real (1993) por sector
+* Gráfico 3. PBI real (1993) por sector: Valor agregado bruto a precios de productor
+* Gráfico 4. PBI real (1993) participación por sector: Valor agregado bruto a precios de productor
 * *En desarrollo*
 
 ## [Agregados monetarios y precios](https://www.elhubeconomico.com/graficos/02_agregados_monetarios/)

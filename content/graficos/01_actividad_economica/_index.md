@@ -34,9 +34,22 @@ Página en desarrollo
 
 ---
 
-## Gráfico 3. PBI real (1993) por sector
+## Gráfico 3. PBI real (1993) por sector: Valor agregado bruto a precios de productor
 
 {{< bokeh pbi_real_1993_sector.json >}}
+
+> * FUENTE:
+>   * [Ministerio de Economía | Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
+> ---
+> **Nota metodológica**: Siendo $VA$ valor agregado:
+> $\text{PBI} = \text{VA bruto} + \text{Impuesto al VA} + \text{Impuesto a las importacoines}$  
+> $\text{Valor agregado bruto} = \sum \text{VA por sector} - \text{Intermediación financiera medido indirectamente}$.
+
+---
+
+## Gráfico 4. PBI real (1993) participación por sector: Valor agregado bruto a precios de productor
+
+{{< bokeh pbi_real_1993_sector_part.json >}}
 
 > * FUENTE:
 >   * [Ministerio de Economía | Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
