@@ -42,7 +42,8 @@ type: book  # Do not modify.
 
 ## [Comercio internacional](https://www.elhubeconomico.com/graficos/05_internacional/)
 
-* Gráfico 1. Índice de tipo de cambio real multilateral (17-Ene-12 = 100)
+* Gráfico 1. Índice de tipo de cambio nominal multilateral (17-Ene-12 = 100)
+* Gráfico 2. Índice de tipo de cambio real multilateral (17-Ene-12 = 100)
 * *En desarrollo*
 
 ## [Desarrollo y series de largo plazo](https://www.elhubeconomico.com/graficos/06_desarrollo/)
