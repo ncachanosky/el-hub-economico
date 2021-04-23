@@ -41,9 +41,9 @@ Página en desarrollo
 > * FUENTE:
 >   * [Ministerio de Economía | Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
 > ---
-> **Nota metodológica**: Siendo $VA$ valor agregado:
-> $\text{PBI} = \text{VA bruto} + \text{Impuesto al VA} + \text{Impuesto a las importacoines}$  
-> $\text{Valor agregado bruto} = \sum \text{VA por sector} - \text{Intermediación financiera medido indirectamente}$.
+> **Nota metodológica**: Siendo `VA` valor agregado:
+> `PBI` =  `VA bruto` + `Impuesto al VA` + `Impuesto a las importacoines`  
+> `VA bruto` = $\sum$ `VA por sector` - `Intermediación financiera medido indirectamente`
 
 ---
 
