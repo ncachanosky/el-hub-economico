@@ -9,6 +9,7 @@ type: book  # Do not modify.
 
 * Gráfico 1. Estimador Mensual de Actividad Económica (EMAE)
 * Gráfico 2. PBI real (1994 - 2019)
+* Gráfico 3. PBI real (1993) por sector
 * *En desarrollo*
 
 ## [Agregados monetarios y precios](https://www.elhubeconomico.com/graficos/02_agregados_monetarios/)

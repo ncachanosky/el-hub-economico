@@ -31,3 +31,12 @@ Página en desarrollo
 
 > * FUENTE:
 >   * [Instituto Nacional de Estadísticas y Censos (INDEC)](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-9-47)
+
+---
+
+## Gráfico 3. PBI real (1993) por sector
+
+{{< bokeh pbi_real_1993_sector.json >}}
+
+> * FUENTE:
+>   * [Ministerio de Economía | Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
