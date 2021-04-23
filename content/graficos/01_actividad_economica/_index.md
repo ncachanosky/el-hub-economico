@@ -41,8 +41,8 @@ Página en desarrollo
 > * FUENTE:
 >   * [Ministerio de Economía | Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
 > ---
-> **Nota metodológica**: Siendo `VA` valor agregado:
-> `PBI` =  `VA bruto` + `Impuesto al VA` + `Impuesto a las importacoines`  
+> **Nota metodológica**: Siendo `VA` valor agregado:  
+> `PBI` =  `VA bruto` + `Impuesto al VA` + `Impuesto a las importacIones`  
 > `VA bruto` = $\sum$ `VA por sector` - `Intermediación financiera medido indirectamente`
 
 ---
@@ -50,6 +50,28 @@ Página en desarrollo
 ## Gráfico 4. PBI real (1993) participación por sector: Valor agregado bruto a precios de productor
 
 {{< bokeh pbi_real_1993_sector_part.json >}}
+
+> * FUENTE:
+>   * [Ministerio de Economía | Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
+
+---
+
+## Gráfico 5. PBI real (2004) por sector: Valor agregado bruto a precios de productor
+
+{{< bokeh pbi_real_2004_sector.json >}}
+
+> * FUENTE:
+>   * [Ministerio de Economía | Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
+> ---
+> **Nota metodológica**: Siendo `VA` valor agregado:  
+> `PBI` =  `VA bruto` + `Impuesto al VA` + `Derechos a las importacIones` + `Impuestos netos de subsidios`    
+> `VA bruto` = $\sum$ `VA por sector`
+
+---
+
+## Gráfico 6. PBI real (2004) participación por sector: Valor agregado bruto a precios de productor
+
+{{< bokeh pbi_real_2004_sector_part.json >}}
 
 > * FUENTE:
 >   * [Ministerio de Economía | Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
