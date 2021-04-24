@@ -21,6 +21,8 @@ Página en desarrollo
 
 {{< bokeh emae.json >}}
 
+{{< <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Estimador Mensual de Actividad Económica (EMAE)" data-url="https://www.elhubeconomico.com/graficos/01_actividad_economica/#gr%C3%A1fico-1-estimador-mensual-de-actividad-econ%C3%B3mica-emae" data-via="n_cachanosky" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> >}}
+
 > * FUENTE:
 >   * [Ministerio de Economía | Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
 >   * Cálculos del autor.
