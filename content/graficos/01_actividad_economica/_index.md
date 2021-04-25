@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: "01"
+linktitle: "Actividad económica"
 weight: 2
 
 # Page metadata.
