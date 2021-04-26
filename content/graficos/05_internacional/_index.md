@@ -29,3 +29,14 @@ Página en desarrollo
 
 > * FUENTES:
 >   * [Banco Central de la República Argentina](http://www.bcra.gob.ar/PublicacionesEstadisticas/Indices_tipo_cambio_multilateral.asp)
+
+---
+
+## Gráfico 3. Balanza de Pagos
+
+{{< bokeh bop.json >}}
+
+> * FUENTES:
+>   * [Comisión Económica para América Latina y el Caribe (CEPAL)](https://estadisticas.cepal.org/cepalstat/web_cepalstat/estadisticasIndicadores.asp?idioma=e)
+> ---
+> **Nota metodológica**: `Cuenta corriente` - `(Cuenta capital + Cuenta financiera)` = `Reservas`.
