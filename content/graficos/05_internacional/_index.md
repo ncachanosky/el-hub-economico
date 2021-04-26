@@ -39,4 +39,4 @@ Página en desarrollo
 > * FUENTES:
 >   * [Comisión Económica para América Latina y el Caribe (CEPAL)](https://estadisticas.cepal.org/cepalstat/web_cepalstat/estadisticasIndicadores.asp?idioma=e)
 > ---
-> **Nota metodológica**: `Cuenta corriente` - `(Cuenta capital + Cuenta financiera)` = `Reservas`.
+> **Nota metodológica**: `Cuenta corriente` + `(Cuenta capital + Cuenta financiera)` + `Errores y omisiones` = `Reservas`.
