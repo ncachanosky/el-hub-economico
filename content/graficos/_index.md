@@ -31,7 +31,7 @@ type: book  # Do not modify.
 
 ## [Datos fiscales](https://www.elhubeconomico.com/graficos/04_datos_fiscales/)
 
-* Gráfico 1. Déficiti fiscal (nación y consolidado) (1961 - 2019)
+* Gráfico 1. Déficiti fiscal (nación y consolidado)
 * Gráfico 2. Gasto del tesoro nacional (pesos del 2002 | 2002 = 100)
 * Gráfico 3. Intereses sobre intresos del Tesoro National
 * Gráfico 4. Gasto consolidado por nivel de gobierno (1980 - 2017)

@@ -14,7 +14,7 @@ Página en desarrollo
 
 ---
 
-## Gráfico 1. Déficiti fiscal (nación y consolidado) (1961 - 2019)
+## Gráfico 1. Déficiti fiscal (nación y consolidado)
 
 {{< bokeh fiscal_deficit.json >}}
 
