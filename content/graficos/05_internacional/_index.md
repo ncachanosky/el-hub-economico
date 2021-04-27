@@ -49,3 +49,13 @@ Página en desarrollo
 
 > * FUENTES:
 >   * [Ministerio de Economía: Datos Económicos (Sector Externo)](https://www.economia.gob.ar/datos/)
+
+---
+
+## Gráfico 5. Índice de Precios de las Materias Primas (IPMP)
+
+{{< bokeh ipmp.json >}}
+
+
+> * FUENTES:
+>   * [Banco Central de la República Argentina](http://www.bcra.gob.ar/PublicacionesEstadisticas/Precios_materias_primas.asp)

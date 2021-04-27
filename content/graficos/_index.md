@@ -46,6 +46,7 @@ type: book  # Do not modify.
 * Gráfico 2. Índice de tipo de cambio real multilateral (17-Ene-12 = 100)
 * Gráfico 3. Balanza de Pagos
 * Gráfico 4. Intercambio Comercial Argentino (ICA)
+* Gráfico 5. Índice de Precios de las Materias Primas (IPMP)
 * *En desarrollo*
 
 ## [Desarrollo y series de largo plazo](https://www.elhubeconomico.com/graficos/06_desarrollo/)
