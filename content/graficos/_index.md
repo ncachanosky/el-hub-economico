@@ -45,6 +45,7 @@ type: book  # Do not modify.
 * Gráfico 1. Índice de tipo de cambio nominal multilateral (17-Ene-12 = 100)
 * Gráfico 2. Índice de tipo de cambio real multilateral (17-Ene-12 = 100)
 * Gráfico 3. Balanza de Pagos
+* Gráfico 4. Intercambio Comercial Argentino (ICA)
 * *En desarrollo*
 
 ## [Desarrollo y series de largo plazo](https://www.elhubeconomico.com/graficos/06_desarrollo/)

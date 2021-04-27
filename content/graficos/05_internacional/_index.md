@@ -40,3 +40,12 @@ Página en desarrollo
 >   * [Comisión Económica para América Latina y el Caribe (CEPAL)](https://estadisticas.cepal.org/cepalstat/web_cepalstat/estadisticasIndicadores.asp?idioma=e)
 > ---
 > **Nota metodológica**: `Cuenta corriente` + `(Cuenta capital + Cuenta financiera)` + `Errores y omisiones` = `Reservas`.
+
+---
+
+## Gráfico 4. Intercambio Comercial Argentino (ICA)
+
+{{< bokeh ica.json >}}
+
+> * FUENTES:
+>   * [Ministerio de Economía: Datos Económicos (Sector Externo)](https://www.economia.gob.ar/datos/)
