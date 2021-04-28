@@ -58,3 +58,7 @@ Metropolitan State University of Denver
 
 Senior Fellow  
 [American Institute for Economic Research](https://www.aier.org/)
+
+---
+
+{{< figure src="icon_twitter.jpg" url="[true](https://twitter.com/intent/tweet?url={url}&text={title})" >}}
