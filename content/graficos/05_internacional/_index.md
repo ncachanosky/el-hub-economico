@@ -48,7 +48,7 @@ Página en desarrollo
 {{< bokeh ica.json >}}
 
 > * FUENTES:
->   * [Ministerio de Economía: Datos Económicos (Sector Externo)](https://www.economia.gob.ar/datos/)
+>   * [Ministerio de Economía| Portal de Datos Económicos: Sector Externo](https://www.economia.gob.ar/datos/)
 
 ---
 

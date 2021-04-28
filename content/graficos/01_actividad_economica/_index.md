@@ -22,7 +22,7 @@ Página en desarrollo
 {{< bokeh emae.json >}}
 
 > * FUENTE:
->   * [Ministerio de Economía | Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
+>   * [Ministerio de Economía | Portal de Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
 >   * Cálculos del autor.
 
 ## Gráfico 2. PBI real (1994 - 2019)
@@ -39,7 +39,7 @@ Página en desarrollo
 {{< bokeh pbi_real_1993_sector.json >}}
 
 > * FUENTE:
->   * [Ministerio de Economía | Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
+>   * [Ministerio de Economía | Portal de Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
 > ---
 > **Nota metodológica**: Siendo `VA` valor agregado:  
 > `PBI` =  `VA bruto` + `Impuesto al VA` + `Impuesto a las importacIones`  
@@ -52,7 +52,7 @@ Página en desarrollo
 {{< bokeh pbi_real_1993_sector_part.json >}}
 
 > * FUENTE:
->   * [Ministerio de Economía | Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
+>   * [Ministerio de Economía | Portal de Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
 
 ---
 
@@ -61,7 +61,7 @@ Página en desarrollo
 {{< bokeh pbi_real_2004_sector.json >}}
 
 > * FUENTE:
->   * [Ministerio de Economía | Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
+>   * [Ministerio de Economía | Portal de Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
 > ---
 > **Nota metodológica**: Siendo `VA` valor agregado:  
 > `PBI` =  `VA bruto` + `Impuesto al VA` + `Derechos a las importacIones` + `Impuestos netos de subsidios`
@@ -74,4 +74,4 @@ Página en desarrollo
 {{< bokeh pbi_real_2004_sector_part.json >}}
 
 > * FUENTE:
->   * [Ministerio de Economía | Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
+>   * [Ministerio de Economía | Portal de Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)

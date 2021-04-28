@@ -21,7 +21,7 @@ Página en desarrollo
 > * FUENTES:
 >   * [Banco Central de la República Argentina: Balance Semanal](http://www.bcra.gob.ar/PublicacionesEstadisticas/balances_semanales.asp)
 >   * [Banco Central de la República Argentina: Informe Monetario Diario (series históricas)](http://www.bcra.gob.ar/PublicacionesEstadisticas/Informe_monetario_diario.asp)
->   * [Ministerio de Economía: Datos Económicos (Dinero y Bancos)](https://www.economia.gob.ar/datos/)
+>   * [Ministerio de Economía | Portal de Datos Económicos: Dinero y Bancos](https://www.economia.gob.ar/datos/)
 
 ---
 
