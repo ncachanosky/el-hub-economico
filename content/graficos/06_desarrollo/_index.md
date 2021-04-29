@@ -25,7 +25,7 @@ Página en desarrollo
 
 ## Gráfico 2. PBI per capita real PPP (2011 US$) (ranking mundial)
 
-{{< bokeh pbi_ranking.json >}}
+{{< bokeh gdp_ranking.json >}}
 
 > * FUENTE
 >   * [Maddison Project Database, versión 2018](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2018?lang=en)
