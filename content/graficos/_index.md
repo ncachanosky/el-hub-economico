@@ -28,6 +28,7 @@ type: book  # Do not modify.
 ## [Mercado laboral y pobreza](https://www.elhubeconomico.com/graficos/03_desempleo_pobreza/)
 
 * Gráfico 1: Tasa de desempleo (promedio anual)
+* Gráfico 2: Personas bajo la línea de pobreza
 * *En desarrollo*
 
 ## [Datos fiscales](https://www.elhubeconomico.com/graficos/04_datos_fiscales/)
