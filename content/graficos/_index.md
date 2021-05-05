@@ -63,4 +63,5 @@ type: book  # Do not modify.
 * Gráfico 2. Presidentes del BCRA (días en ejercicio)
 * Gráfico 3. Índice de libertad económica
 * Gráfico 4. Índice de libertad económica y PBI per cápita
+* Gráfico 5. Índice de libertad económica por región
 * *En desarrollo* 
