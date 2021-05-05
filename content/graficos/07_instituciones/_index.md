@@ -53,7 +53,7 @@ Página en desarrollo
 
 ## Gráfico 5. Índice de libertad económica por región
 
-{{< bokeh efw_gdp.json >}}
+{{< bokeh efw_regional.json >}}
 
 > * FUENTES:
 >   * [Fraser Institute. *Economic Freedom of the World*](https://www.fraserinstitute.org/economic-freedom/map)
