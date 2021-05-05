@@ -37,7 +37,7 @@ Página en desarrollo
 
 ---
 
-## Gráfico 3. Intereses sobre intresos del Tesoro National
+## Gráfico 3. Intereses sobre ingresos del Tesoro National
 
 {{< bokeh intereses_ingresos.json >}}
 
