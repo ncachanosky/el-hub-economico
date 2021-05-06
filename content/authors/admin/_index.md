@@ -43,9 +43,9 @@ bio: N. Cachanosky | MSU Denver
 #- icon: envelope
 #  icon_pack: fas
 #  link: "mailto:ncachano@msudenver.edu"
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/n_cachanosky
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/econ_hub
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?hl=en&user=8Sj8DmAAAAAJ
