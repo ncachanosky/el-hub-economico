@@ -61,3 +61,16 @@ Página en desarrollo
 >   * Cálculos del autor
 > ---
 > **Nota metodológica**: Los índices regionales son promedios ponderados por población
+
+---
+
+## Gráfico 6. Índice de libertad económica y participación del ingeso del primer decil
+
+{{< bokeh efw_regional.json >}}
+
+> * FUENTES:
+>   * [Fraser Institute. *Economic Freedom of the World*](https://www.fraserinstitute.org/economic-freedom/map)
+>   * [Banco Mundial: World Development Indicators](https://datatopics.worldbank.org/world-development-indicators/)
+>   * Cálculos del autor
+> ---
+> **Nota metodológica**: Promedio de la participación del ingreso del primer decil por país (no ponderado por población) por cuartil de libertad económica
