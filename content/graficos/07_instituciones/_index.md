@@ -74,3 +74,16 @@ Página en desarrollo
 >   * Cálculos del autor
 > ---
 > **Nota metodológica**: Promedio de la participación del ingreso del primer decil por país (no ponderado por población) por cuartil de libertad económica
+
+---
+
+## Gráfico 7. Índice de libertad económica y índice de GINI
+
+{{< bokeh efw_GINI.json >}}
+
+> * FUENTES:
+>   * [Fraser Institute. *Economic Freedom of the World*](https://www.fraserinstitute.org/economic-freedom/map)
+>   * [Banco Mundial: World Development Indicators](https://datatopics.worldbank.org/world-development-indicators/)
+>   * Cálculos del autor
+> ---
+> **Nota metodológica**: Promedio del índice de GINI por país (no ponderado por población) por cuartil de libertad económica

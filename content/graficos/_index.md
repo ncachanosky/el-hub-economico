@@ -65,4 +65,5 @@ type: book  # Do not modify.
 * Gráfico 4. Índice de libertad económica y PBI per cápita
 * Gráfico 5. Índice de libertad económica por región
 * Gráfico 6. Índice de libertad económica y participación del ingeso del primer decil
+* Gráfico 7. Índice de libertad económica y índice de GINI
 * *En desarrollo* 
