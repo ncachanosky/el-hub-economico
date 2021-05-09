@@ -73,7 +73,7 @@ Página en desarrollo
 >   * [Banco Mundial: World Development Indicators](https://datatopics.worldbank.org/world-development-indicators/)
 >   * Cálculos del autor
 > ---
-> **Nota metodológica**: Promedio de la participación del ingreso del primer decil por país (no ponderado por población) por cuartil de libertad económica
+> **Nota metodológica**: Promedio de la participación del ingreso del primer decil por país (no ponderado por población) por cuartil de libertad económica.
 
 ---
 
@@ -86,4 +86,5 @@ Página en desarrollo
 >   * [Banco Mundial: World Development Indicators](https://datatopics.worldbank.org/world-development-indicators/)
 >   * Cálculos del autor
 > ---
-> **Nota metodológica**: Promedio del índice de GINI por país (no ponderado por población) por cuartil de libertad económica
+> **Nota metodológica**: Promedio del índice de GINI por país (no ponderado por población) por cuartil de libertad económica.
+> $\text{(mayor igualdad) }0 \leftarrow GINI \rightarrow 100 \text{ (mayor desigualdad)}$
