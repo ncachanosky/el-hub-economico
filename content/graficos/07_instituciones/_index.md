@@ -66,7 +66,7 @@ Página en desarrollo
 
 ## Gráfico 6. Índice de libertad económica y participación del ingeso del primer decil
 
-{{< bokeh efw_regional.json >}}
+{{< bokeh efw_bottom_10.json >}}
 
 > * FUENTES:
 >   * [Fraser Institute. *Economic Freedom of the World*](https://www.fraserinstitute.org/economic-freedom/map)
