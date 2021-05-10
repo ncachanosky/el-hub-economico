@@ -46,6 +46,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/econ_hub
+  display:
+    header: true
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?hl=en&user=8Sj8DmAAAAAJ
