@@ -14,7 +14,25 @@ Página en desarrollo
 
 ---
 
-## Gráfico 1. Ministros de Economía (días en ejercicio)
+## Gráfico 1. Tiempo en presidencia por partido político desde 1946
+
+{{< bokeh gobiernos_share_1946.json >}}
+
+> * FUENTES:
+>   * Cálculos del autor
+
+---
+
+## Gráfico 2. Tiempo en presidencia por partido político desde 1983
+
+{{< bokeh gobiernos_share_1983.json >}}
+
+> * FUENTES:
+>   * Cálculos del autor
+
+---
+
+## Gráfico 3. Ministros de Economía (días en ejercicio)
 
 {{< bokeh ministros_dias.json >}}
 
@@ -23,7 +41,7 @@ Página en desarrollo
 
 ---
 
-## Gráfico 2. Presidentes del BCRA (días en ejercicio)
+## Gráfico 4. Presidentes del BCRA (días en ejercicio)
 
 {{< bokeh bcra_dias.json >}}
 
@@ -32,7 +50,7 @@ Página en desarrollo
 
 ---
 
-## Gráfico 3. Índice de libertad económica
+## Gráfico 5. Índice de libertad económica
 
 {{< bokeh efw_rank.json >}}
 
@@ -41,7 +59,7 @@ Página en desarrollo
 
 ---
 
-## Gráfico 4. Índice de libertad económica y PBI per cápita
+## Gráfico 6. Índice de libertad económica y PBI per cápita
 
 {{< bokeh efw_gdp.json >}}
 
@@ -51,7 +69,7 @@ Página en desarrollo
 
 ---
 
-## Gráfico 5. Índice de libertad económica por región
+## Gráfico 7. Índice de libertad económica por región
 
 {{< bokeh efw_regional.json >}}
 
@@ -64,7 +82,7 @@ Página en desarrollo
 
 ---
 
-## Gráfico 6. Índice de libertad económica y participación del ingeso del primer decil
+## Gráfico 8. Índice de libertad económica y participación del ingeso del primer decil
 
 {{< bokeh efw_bottom_10.json >}}
 
@@ -77,7 +95,7 @@ Página en desarrollo
 
 ---
 
-## Gráfico 7. Índice de libertad económica y índice de GINI
+## Gráfico 9. Índice de libertad económica y índice de GINI
 
 {{< bokeh efw_GINI.json >}}
 

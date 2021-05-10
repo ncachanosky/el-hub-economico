@@ -59,11 +59,13 @@ type: book  # Do not modify.
 
 ## [Series institucionales](https://www.elhubeconomico.com/graficos/07_instituciones/)
 
-* Gráfico 1. Ministros de Economía (días en ejercicio)
-* Gráfico 2. Presidentes del BCRA (días en ejercicio)
-* Gráfico 3. Índice de libertad económica
-* Gráfico 4. Índice de libertad económica y PBI per cápita
-* Gráfico 5. Índice de libertad económica por región
-* Gráfico 6. Índice de libertad económica y participación del ingeso del primer decil
-* Gráfico 7. Índice de libertad económica y índice de GINI
+* Gráfico 1. Tiempo en presidencia por partido político desde 1946
+* Gráfico 2. Tiempo en presidencia por partido político desde 1983
+* Gráfico 3. Ministros de Economía (días en ejercicio)
+* Gráfico 4. Presidentes del BCRA (días en ejercicio)
+* Gráfico 5. Índice de libertad económica
+* Gráfico 6. Índice de libertad económica y PBI per cápita
+* Gráfico 7. Índice de libertad económica por región
+* Gráfico 8. Índice de libertad económica y participación del ingeso del primer decil
+* Gráfico 9. Índice de libertad económica y índice de GINI
 * *En desarrollo* 
