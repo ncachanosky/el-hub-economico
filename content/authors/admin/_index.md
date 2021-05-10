@@ -39,15 +39,15 @@ bio: N. Cachanosky | MSU Denver
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
+#social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: "mailto:ncachano@msudenver.edu"
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/econ_hub
-  display:
-    header: true
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/econ_hub
+#  display:
+#    header: true
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?hl=en&user=8Sj8DmAAAAAJ
