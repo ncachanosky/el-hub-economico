@@ -14,7 +14,20 @@ Página en desarrollo
 
 ---
 
-## Gráfico 1. PBI per capita real PPP (2011 US$)
+## Gráfico 1. Crecimiento en Latino América: Tendencia (países selectos)
+
+{{< bokeh crecimiento_desde_2020.json >}}
+
+> * FUENTE
+>   * [Maddison Project Database, versión 2018](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2018?lang=en)
+>   * Cálculos del autor
+> ---
+> **Nota metodológica**: El crecimiento se calcula sobre la tendencia (filtro HP) del PBI per cápita ajustado por costo de vida (PPP).
+
+
+---
+
+## Gráfico 2. PBI per capita real PPP (2011 US$)
 
 {{< bokeh gdp_maddison.json >}}
 
@@ -23,7 +36,7 @@ Página en desarrollo
 
 ---
 
-## Gráfico 2. PBI per capita real PPP (2011 US$) (ranking mundial)
+## Gráfico 3. PBI per capita real PPP (2011 US$) (ranking mundial)
 
 {{< bokeh gdp_ranking.json >}}
 
