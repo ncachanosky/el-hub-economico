@@ -73,6 +73,7 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
 ---
 
 Bienvenidos a **El Hub Económico**. Este sitio provee un índice variables económicas de Argentina. Todas las series incluídas en este sitio son de acceso público y gratuito. **El Hub Económico** no guarda información de terceros, sino que ofrece links directos a las fuentes originales, facilitando el acceso a la información pública e incrementando la visibilidad de las diversas fuentes aquí recopiladas.
