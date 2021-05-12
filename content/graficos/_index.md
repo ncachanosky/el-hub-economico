@@ -2,12 +2,6 @@
 title: "LA ECONOMÍA ARGENTINA EN GRÁFICOS"
 type: book  # Do not modify.
 
-links:
-  - icon_pack: fab
-  - icon: Twitter
-  - name: Follow
-  - url: 'https://twitter.com/#econ_hub'
-
 ---
 
 ---

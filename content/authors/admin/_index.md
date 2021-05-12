@@ -85,11 +85,10 @@ Bienvenidos a **El Hub Económico**. Este sitio provee un índice variables econ
 
 ---
 
-## Información de contacto
+[**NICOLÁS CACHANOSKY**](https://www.ncachanosky.com) | {{< icon name="envelope" >}} ncachano@msudenver.edu  
+**Metropolitan State University of Denver** | Associate Professor of Economics  
+**American Institute for Economic Research** | Senior Fellow
 
-[**Nicolás Cachanosky**](https://www.ncachanosky.com) | ncachano@msudenver.edu  
-Associate Professor of Economics  
-Metropolitan State University of Denver
+---
 
-Sound Money Project | Senior Fellow  
-[American Institute for Economic Research](https://www.aier.org/)
+<script async defer src="https://buttons.github.io/buttons.js"></script><a class="github-button" href="https://github.com/ncachanosky" aria-label="Follow @ncachanosky on GitHub">Follow @ncachanosky</a> <a class="github-button" href="https://github.com/ncachanosky/el-hub-economico/subscription" data-icon="octicon-eye" aria-label="Watch ncachanosky/el-hub-economico on GitHub">Watch</a> <a class="github-button" href="https://github.com/ncachanosky/el-hub-economico" data-icon="octicon-star" aria-label="Star ncachanosky/el-hub-economico on GitHub">Star</a> <a class="github-button" href="https://github.com/sponsors/ncachanosky" data-icon="octicon-heart" aria-label="Sponsor @ncachanosky on GitHub">Sponsor</a>
