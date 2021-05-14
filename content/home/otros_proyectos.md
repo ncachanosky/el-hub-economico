@@ -54,5 +54,5 @@ subtitle = ""
 *En desarrollo*  
 Notas de cursos intermedios y avanzados de economía.
 
-[**MACRO WITH PYTHON**](https://www.ncachanosky.com/macro_python/)  
+[**MACRO WITH PYTHON**](https://macro-with-python.netlify.app/)  
 Python aplicado a modelos intermedios/avanzados de Macroeconomía.
