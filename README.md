@@ -1,10 +1,13 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/81e3b877-3a74-40a1-a5f4-2b1d493ea930/deploy-status)](https://app.netlify.com/sites/elhubeconomico/deploys)
+
 # El Hub Económico
 
-[El Hub Económica](https://www.elhubeconomico.com/test1/) facilita el acceso y visualización de series económicas de Argentina.
+Sitio web: https://www.elhubeconomico.com/
 
-El sitio utiliza fuentes públicas y privadas de **libre acceso**.
+---
 
-Las series gráficas se agrupan de la siguiente manera:
+Encontrar fuentes de datos económicos de Argentina no siempre es fácil. **El Hub Económico** recopila fuentes de libre acceso y ofrece una selección de gráficas dela economía del país así como de Argentina en el mundo
+Los gráficos se agrupan en las siguientes categorías: 
 
 1. Actividad económica
 2. Agregados monetarios y precios
