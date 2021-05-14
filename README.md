@@ -29,7 +29,7 @@ Las fuentes de datos se agrupan de la siguientes manera:
   * Errores u omisiones
   * Nuevas fuentes de datos a incluir
   * Nuevos gráficos
-* Sponsorear](https://github.com/sponsors/ncachanosky) el proyecto
+* [Sponsorear](https://github.com/sponsors/ncachanosky) el proyecto
 
 ## ¿Cómo se construye el Hub Económico?
 
