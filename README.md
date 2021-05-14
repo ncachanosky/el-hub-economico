@@ -23,7 +23,7 @@ Las fuentes de datos se agrupan de la siguientes manera:
 2. Fuentes privadas
 3. Fuentes internacionales
 
-## Cómo contribuir
+## Como contribuir
 
 * Abrir un [issue](https://github.com/ncachanosky/el-hub-economico/issues) con:
   * Errores u omisiones
@@ -31,7 +31,7 @@ Las fuentes de datos se agrupan de la siguientes manera:
   * Nuevos gráficos
 * [Sponsorear](https://github.com/sponsors/ncachanosky) el proyecto
 
-## ¿Cómo se construye el Hub Económico?
+## Como se construye el Hub Económico
 
 ### Sitio web
 
