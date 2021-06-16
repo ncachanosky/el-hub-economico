@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "6be8c7fa745338c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "44f166b965507dc0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/graficos/01_actividad_economica/_index.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "869f898859fc3f4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fb57090731d5e8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bebea9be4f1a6df2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "81bcf4a2ba120792",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "183e3588b98f57fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0ed8b856f4c6e29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "545864791e4dbd93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/graficos/01_actividad_economica/_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "44f166b965507dc0",
+  "lastOpenFiles": [
+    "content/graficos/01_actividad_economica/_index.md"
+  ]
+}
