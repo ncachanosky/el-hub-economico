@@ -1,29 +1,10 @@
 ---
-marp: true
-theme: gaia
-backgroundColor: #00447c
-color: "white"
-paginate: true
-footer: "**MSU DENVER** | [NICOLAS CACHANOSKY](https:www.ncachanosky.com) | NCACHANO@MSUDENVER.EDU"
-header: "ECONOMETRICS"
+# Title, summary, and page position.
+linktitle: "Actividad económica"
+weight: 2
+
+# Page metadata.
+title: Actividad económica
+date: "2018-09-09T00:00:00Z"
+type: book  # Do not modify.
 ---
-
-<!-- _class: lead -->
-<!-- _paginate: false -->
-<!-- _footer: "" -->
-<!-- _header: "" -->
-
-# ECONOMETRICS
-
-### Ordinary Least Squares (OLS)
-
----
-
-<!-- backgroundColor: white -->
-<!-- color: #717073 -->
-
-## Slide 2
-
-### Hello title
-
-* This is OLS text
