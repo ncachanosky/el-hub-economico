@@ -1,32 +1,40 @@
 ---
-marp: true
-theme: gaia
-backgroundColor: #00447c
-color: "white"
-paginate: true
-footer: "**MSU DENVER** | [NICOLAS CACHANOSKY](https:www.ncachanosky.com) | NCACHANO@MSUDENVER.EDU"
-header: "ECONOMETRICS"
+title: Fuentes oficiales
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
 ---
 
-<!-- _class: lead -->
-<!-- _paginate: false -->
-<!-- _footer: "" -->
-<!-- _header: "" -->
-
-# ECONOMETRICS
-
-### Ordinary Least Squares (OLS)
-
----
-
-<!-- backgroundColor: white -->
-<!-- color: #717073 -->
-
-## Slide 2
-
-### Hello title
-
-* This is OLS text
+## CONTENIDOS
+1. Fundación de Investigaciones Económicas Latinoamericanas (FIEL)
+    * Indice de Producción Industrial (IPI)
+2. Fundación Norte y Sur
+    * Dos Siglos de Economía Argentina
+3. Orlando J. Ferreres y Asociados
+    * Indice General de Actividad (IGA)
+    * Indice de Producción Industrial (IPI)
+4. Universidad Católica Argentina (UCA)
+    * Subsistencia material
+    * Hábitat Urbano
+    * Trabajo y Seguridad Social
+    * Salud y Condiciones Psicosociales
+    * Confianza Institucional y Vida Ciudadana
+5. Universidad del CEMA (UCEMA)
+    * Canasta del profesional ejecutivo
+    * Indice de Viento de Cola
+    * Varialbes de coyuntura económica
+    * Base de datos de series históricas
+6. Universidad Torcuato di Tella (UTDT)
+    * Indice de flexibilidad de créditos
+    * Relevamiento inmobiliario de América Latina
+    * Indice de Confianza del Consumidor (ICC)
+    * Encuesta de expectativas de inflación
+    * Indice lider
+7. Inflación Verdadera
+    * Inflación Argentina
+    * Inflación Venezuela
 
 
 
