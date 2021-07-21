@@ -1,11 +1,29 @@
 ---
-title: Fuentes oficiales
-
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
+marp: true
+theme: gaia
+backgroundColor: #00447c
+color: "white"
+paginate: true
+footer: "**MSU DENVER** | [NICOLAS CACHANOSKY](https:www.ncachanosky.com) | NCACHANO@MSUDENVER.EDU"
+header: "ECONOMETRICS"
 ---
 
-{{< bokeh agregados_monetarios_12m.json >}}
+<!-- _class: lead -->
+<!-- _paginate: false -->
+<!-- _footer: "" -->
+<!-- _header: "" -->
 
+# ECONOMETRICS
+
+### Ordinary Least Squares (OLS)
+
+---
+
+<!-- backgroundColor: white -->
+<!-- color: #717073 -->
+
+## Slide 2
+
+### Hello title
+
+* This is OLS text
