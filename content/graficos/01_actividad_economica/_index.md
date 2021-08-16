@@ -25,6 +25,8 @@ Página en desarrollo
 >   * [Ministerio de Economía | Portal de Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
 >   * Cálculos del autor.
 
+---
+
 ## Gráfico 2. PBI real (1994 - 2019)
 
 {{< bokeh pbi_real.json >}}
@@ -75,3 +77,12 @@ Página en desarrollo
 
 > * FUENTE:
 >   * [Ministerio de Economía | Portal de Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
+
+---
+
+## Gráfico 7. Productividad total de los factores de producción en moneda local, Argentina (2017 = 1)
+
+{{< bokeh TFP_ARG.json >}}
+
+> * FUENTE:
+>   * [Penn World Table 10.0](https://www.rug.nl/ggdc/productivity/pwt/?lang=en)
