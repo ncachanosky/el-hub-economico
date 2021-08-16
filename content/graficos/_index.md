@@ -15,6 +15,7 @@ type: book  # Do not modify.
 * Gráfico 5. PBI real (2004) por sector: Valor agregado bruto a precios de productor
 * Gráfico 6. PBI real (2004) participación por sector: Valor agregado bruto a precios de productor
 * Gráfico 7. Productividad total de los factores de producción en moneda local, Argentina (2017 = 1)
+* Gráfico 8. Productividad en países selectos (USA = 1)
 * *En desarrollo*
 
 ## [Agregados monetarios y precios](https://www.elhubeconomico.com/graficos/02_agregados_monetarios/)
@@ -36,7 +37,6 @@ type: book  # Do not modify.
 * Gráfico 5. Gasto consolidado por finalidad (1980 - 2017)
 * Gráfico 6. Deuda de la administración central
 * Gráfico 7. Tiempo en default o bajo reestructuración desde la independencia y la Segunda Guerra Mundial
-* Gráfico 8. Productividad en países selectos (USA = 1)
 * *En desarrollo*
 
 ## [Mercado laboral y pobreza](https://www.elhubeconomico.com/graficos/04_desempleo_pobreza/)
