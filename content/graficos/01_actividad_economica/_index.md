@@ -86,3 +86,12 @@ Página en desarrollo
 
 > * FUENTE:
 >   * [Penn World Table 10.0](https://www.rug.nl/ggdc/productivity/pwt/?lang=en)
+
+---
+
+## Gráfico 8. Productividad en países selectos (USA = 1)
+
+{{< bokeh TFP_Comparado.json >}}
+
+> * FUENTE:
+>   * [Penn World Table 10.0](https://www.rug.nl/ggdc/productivity/pwt/?lang=en)

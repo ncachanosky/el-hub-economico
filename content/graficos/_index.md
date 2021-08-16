@@ -36,6 +36,7 @@ type: book  # Do not modify.
 * Gráfico 5. Gasto consolidado por finalidad (1980 - 2017)
 * Gráfico 6. Deuda de la administración central
 * Gráfico 7. Tiempo en default o bajo reestructuración desde la independencia y la Segunda Guerra Mundial
+* Gráfico 8. Productividad en países selectos (USA = 1)
 * *En desarrollo*
 
 ## [Mercado laboral y pobreza](https://www.elhubeconomico.com/graficos/04_desempleo_pobreza/)
