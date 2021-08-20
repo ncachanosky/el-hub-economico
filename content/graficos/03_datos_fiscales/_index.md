@@ -27,7 +27,16 @@ Página en desarrollo
 
 ---
 
-## Gráfico 2. Gasto del tesoro nacional (pesos del 2002 | 2002 = 100)
+## Gráfico 2. Recaudación por impuesto
+
+{{< bokeh 03.02_gasto_tesoro_real.json >}}
+
+> * FUENTES: 
+>   * Ministerio de Economía | [Boletín Fiscal](https://www.economia.gob.ar/onp/ejecucion/2020)
+
+---
+
+## Gráfico 3. Gasto del tesoro nacional (pesos del 2002 | 2002 = 100)
 
 {{< bokeh gasto_tesoro_real.json >}}
 
@@ -37,7 +46,7 @@ Página en desarrollo
 
 ---
 
-## Gráfico 3. Intereses sobre ingresos del Tesoro National
+## Gráfico 4. Intereses sobre ingresos del Tesoro National
 
 {{< bokeh intereses_ingresos.json >}}
 
@@ -47,7 +56,7 @@ Página en desarrollo
 
 ---
 
-## Gráfico 4. Gasto consolidado por nivel de gobierno (1980 - 2017)
+## Gráfico 5. Gasto consolidado por nivel de gobierno (1980 - 2017)
 
 {{< bokeh gasto_consolidado_nivel.json >}}
 
@@ -56,7 +65,7 @@ Página en desarrollo
 
 ---
 
-## Gráfico 5. Gasto consolidado por finalidad (1980 - 2017)
+## Gráfico 6. Gasto consolidado por finalidad (1980 - 2017)
 
 {{< bokeh gasto_consolidado_finalidad.json >}}
 
@@ -65,7 +74,7 @@ Página en desarrollo
 
 ---
 
-## Gráfico 6. Deuda de la administración central
+## Gráfico 7. Deuda de la administración central
 
 {{< bokeh deuda_publica.json >}}
 
@@ -74,7 +83,7 @@ Página en desarrollo
 
 ---
 
-## Gráfico 7. Tiempo en default o bajo reestructuración desde la independencia y la Segunda Guerra Mundial
+## Gráfico 8. Tiempo en default o bajo reestructuración desde la independencia y la Segunda Guerra Mundial
 
 {{< bokeh tiempo_en_default.json >}}
 

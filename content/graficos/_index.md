@@ -31,12 +31,13 @@ type: book  # Do not modify.
 ## [Datos fiscales](https://www.elhubeconomico.com/graficos/03_datos_fiscales/)
 
 * Gráfico 1. Déficiti fiscal (nación y consolidado)
-* Gráfico 2. Gasto del tesoro nacional (pesos del 2002 | 2002 = 100)
-* Gráfico 3. Intereses sobre intresos del Tesoro National
-* Gráfico 4. Gasto consolidado por nivel de gobierno (1980 - 2017)
-* Gráfico 5. Gasto consolidado por finalidad (1980 - 2017)
-* Gráfico 6. Deuda de la administración central
-* Gráfico 7. Tiempo en default o bajo reestructuración desde la independencia y la Segunda Guerra Mundial
+* Gráfico 2. Recaudación por impuesto
+* Gráfico 3. Gasto del tesoro nacional (pesos del 2002 | 2002 = 100)
+* Gráfico 4. Intereses sobre intresos del Tesoro National
+* Gráfico 5. Gasto consolidado por nivel de gobierno (1980 - 2017)
+* Gráfico 6. Gasto consolidado por finalidad (1980 - 2017)
+* Gráfico 7. Deuda de la administración central
+* Gráfico 8. Tiempo en default o bajo reestructuración desde la independencia y la Segunda Guerra Mundial
 * *En desarrollo*
 
 ## [Mercado laboral y pobreza](https://www.elhubeconomico.com/graficos/04_desempleo_pobreza/)
