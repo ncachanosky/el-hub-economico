@@ -14,7 +14,7 @@ Página en desarrollo
 
 ---
 
-## Gráfico 1. Crecimiento en Latino América: Tendencia (países selectos)
+## Gráfico 1. Crecimiento en Latino América: Tendencia (países selectos) (2000 - 2019)
 
 {{< bokeh 06.01_crecimiento_desde_2020.json >}}
 
