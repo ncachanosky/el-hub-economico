@@ -29,7 +29,7 @@ Página en desarrollo
 
 ## Gráfico 2. Recaudación por impuesto
 
-{{< bokeh 03.02_gasto_tesoro_real.json >}}
+{{< bokeh 03.02_recaudacion_por_impuesto.json >}}
 
 > * FUENTES: 
 >   * Ministerio de Economía | [Boletín Fiscal](https://www.economia.gob.ar/onp/ejecucion/2020)
