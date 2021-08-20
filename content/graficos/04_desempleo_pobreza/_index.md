@@ -16,7 +16,7 @@ Página en desarrollo
 
 ## Gráfico 1: Tasa de desempleo (promedio anual)
 
-{{< bokeh desempleo.json >}}
+{{< bokeh 04.01_desempleo.json >}}
 
 > * FUENTES:
 >   * [Ministerio de Economía | Portal de Datos: Empleo e Ingresos](https://www.economia.gob.ar/datos/)
@@ -27,7 +27,7 @@ Página en desarrollo
 
 ## Gráfico 2: Personas bajo la línea de pobreza
 
-{{< bokeh pobreza.json >}}
+{{< bokeh 04.02_pobreza.json >}}
 
 > * FUENTES:
 >   * [Ministerio de Economía | Portal de Datos: Empleo e Ingresos](https://www.economia.gob.ar/datos/)

@@ -16,7 +16,7 @@ Página en desarrollo
 
 ## Gráfico 1. Tiempo en presidencia por partido político desde 1946
 
-{{< bokeh gobiernos_share_1946.json >}}
+{{< bokeh 07.01_gobiernos_share_1946.json >}}
 
 > * FUENTES:
 >   * Cálculos del autor
@@ -25,7 +25,7 @@ Página en desarrollo
 
 ## Gráfico 2. Tiempo en presidencia por partido político desde 1983
 
-{{< bokeh gobiernos_share_1983.json >}}
+{{< bokeh 07.02_gobiernos_share_1983.json >}}
 
 > * FUENTES:
 >   * Cálculos del autor
@@ -34,7 +34,7 @@ Página en desarrollo
 
 ## Gráfico 3. Ministros de Economía (días en ejercicio)
 
-{{< bokeh ministros_dias.json >}}
+{{< bokeh 07.03_ministros_dias.json >}}
 
 > * FUENTES:
 >   * Cálculos del autor
@@ -43,7 +43,7 @@ Página en desarrollo
 
 ## Gráfico 4. Presidentes del BCRA (días en ejercicio)
 
-{{< bokeh bcra_dias.json >}}
+{{< bokeh 07.04_bcra_dias.json >}}
 
 > * FUENTES:
 >   * Cálculos del autor
@@ -52,7 +52,7 @@ Página en desarrollo
 
 ## Gráfico 5. Índice de libertad económica
 
-{{< bokeh efw_rank.json >}}
+{{< bokeh 07.05_efw_rank.json >}}
 
 > * FUENTES:
 >   * [Fraser Institute. *Economic Freedom of the World*](https://www.fraserinstitute.org/economic-freedom/map)
@@ -61,7 +61,7 @@ Página en desarrollo
 
 ## Gráfico 6. Índice de libertad económica y PBI per cápita
 
-{{< bokeh efw_gdp.json >}}
+{{< bokeh 07.06_efw_gdp.json >}}
 
 > * FUENTES:
 >   * [Fraser Institute. *Economic Freedom of the World*](https://www.fraserinstitute.org/economic-freedom/map)
@@ -71,7 +71,7 @@ Página en desarrollo
 
 ## Gráfico 7. Índice de libertad económica por región
 
-{{< bokeh efw_regional.json >}}
+{{< bokeh 07.07_efw_regional.json >}}
 
 > * FUENTES:
 >   * [Fraser Institute. *Economic Freedom of the World*](https://www.fraserinstitute.org/economic-freedom/map)
@@ -84,7 +84,7 @@ Página en desarrollo
 
 ## Gráfico 8. Índice de libertad económica y participación del ingeso del primer decil
 
-{{< bokeh efw_bottom_10.json >}}
+{{< bokeh 07.08_efw_bottom_10.json >}}
 
 > * FUENTES:
 >   * [Fraser Institute. *Economic Freedom of the World*](https://www.fraserinstitute.org/economic-freedom/map)
@@ -97,7 +97,7 @@ Página en desarrollo
 
 ## Gráfico 9. Índice de libertad económica y índice de GINI
 
-{{< bokeh efw_GINI.json >}}
+{{< bokeh 07.09_efw_GINI.json >}}
 
 > * FUENTES:
 >   * [Fraser Institute. *Economic Freedom of the World*](https://www.fraserinstitute.org/economic-freedom/map)

@@ -16,7 +16,7 @@ Página en desarrollo
 
 ## Gráfico 1. Agregados monetarios: Variación interanual
 
-{{< bokeh agregados_monetarios_12m.json >}}
+{{< bokeh 02.01_agregados_monetarios_12m.json >}}
 
 > * FUENTES:
 >   * [Banco Central de la República Argentina: Balance Semanal](http://www.bcra.gob.ar/PublicacionesEstadisticas/balances_semanales.asp)
@@ -27,7 +27,7 @@ Página en desarrollo
 
 ## Gráfico 2. Inflación interanual
 
-{{< bokeh inflacion_interanual.json >}}
+{{< bokeh 02.02_inflacion_interanual.json >}}
 
 > * FUENTES:
 >   * [Instituto Nacional de Estadísticas y Censos (INDEC)](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-9-47)
@@ -37,7 +37,7 @@ Página en desarrollo
 
 ## Gráfico 3. Tiempo en que se duplica el nivel de precios
 
-{{< bokeh precios_x2.json >}}
+{{< bokeh 02.03_precios_x2.json >}}
 
 > * FUENTE:
 >   * [Instituto Nacional de Estadísticas y Censos (INDEC)](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-9-47)
@@ -50,7 +50,7 @@ Página en desarrollo
 
 ## Gráfico 4. Agregados monetarios e IPC
 
-{{< bokeh agregados_monetarios_ipc.json >}}
+{{< bokeh 02.04_agregados_monetarios_ipc.json >}}
 
 > * FUENTE:
 >   * [Instituto Nacional de Estadísticas y Censos (INDEC)](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-9-47)
@@ -63,7 +63,7 @@ Página en desarrollo
 
 ## Gráfico 5. Reservas del BCRA
 
-{{< bokeh reservas.json >}}
+{{< bokeh 02.05_reservas.json >}}
 
 > * FUENTE:
 >   * [Balance semanal del BCRA](http://www.bcra.gob.ar/PublicacionesEstadisticas/balances_semanales.asp)
@@ -78,7 +78,7 @@ Página en desarrollo
 
 ## Gráfico 6. Pasivos del BCRA
 
-{{< bokeh pasivos_bcra.json >}}
+{{< bokeh 02.06_pasivos_bcra.json >}}
 
 > * FUENTE:
 >   * [Balance semanal del BCRA](http://www.bcra.gob.ar/PublicacionesEstadisticas/balances_semanales.asp)

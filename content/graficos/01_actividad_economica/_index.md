@@ -19,7 +19,7 @@ Página en desarrollo
 
 ## Gráfico 1. Estimador Mensual de Actividad Económica (EMAE)
 
-{{< bokeh emae.json >}}
+{{< bokeh 01.01_emae.json >}}
 
 > * FUENTE:
 >   * [Ministerio de Economía | Portal de Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
@@ -29,7 +29,7 @@ Página en desarrollo
 
 ## Gráfico 2. PBI real (1994 - 2019)
 
-{{< bokeh pbi_real.json >}}
+{{< bokeh 01.02_pbi_real.json >}}
 
 > * FUENTE:
 >   * [Instituto Nacional de Estadísticas y Censos (INDEC)](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-9-47)
@@ -38,7 +38,7 @@ Página en desarrollo
 
 ## Gráfico 3. PBI real (1993) por sector: Valor agregado bruto a precios de productor
 
-{{< bokeh pbi_real_1993_sector.json >}}
+{{< bokeh 01.03_pbi_real_1993_sector.json >}}
 
 > * FUENTE:
 >   * [Ministerio de Economía | Portal de Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
@@ -51,7 +51,7 @@ Página en desarrollo
 
 ## Gráfico 4. PBI real (1993) participación por sector: Valor agregado bruto a precios de productor
 
-{{< bokeh pbi_real_1993_sector_part.json >}}
+{{< bokeh 01.04_pbi_real_1993_sector_part.json >}}
 
 > * FUENTE:
 >   * [Ministerio de Economía | Portal de Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
@@ -60,7 +60,7 @@ Página en desarrollo
 
 ## Gráfico 5. PBI real (2004) por sector: Valor agregado bruto a precios de productor
 
-{{< bokeh pbi_real_2004_sector.json >}}
+{{< bokeh 01.05_pbi_real_2004_sector.json >}}
 
 > * FUENTE:
 >   * [Ministerio de Economía | Portal de Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
@@ -73,7 +73,7 @@ Página en desarrollo
 
 ## Gráfico 6. PBI real (2004) participación por sector: Valor agregado bruto a precios de productor
 
-{{< bokeh pbi_real_2004_sector_part.json >}}
+{{< bokeh 01.06_pbi_real_2004_sector_part.json >}}
 
 > * FUENTE:
 >   * [Ministerio de Economía | Portal de Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
@@ -82,7 +82,7 @@ Página en desarrollo
 
 ## Gráfico 7. Productividad total de los factores de producción en moneda local, Argentina (2017 = 1)
 
-{{< bokeh TFP_ARG.json >}}
+{{< bokeh 01.07_TFP_ARG.json >}}
 
 > * FUENTE:
 >   * [Penn World Table 10.0](https://www.rug.nl/ggdc/productivity/pwt/?lang=en)
@@ -91,7 +91,7 @@ Página en desarrollo
 
 ## Gráfico 8. Productividad en países selectos (USA = 1)
 
-{{< bokeh TFP_Comparado.json >}}
+{{< bokeh 01.08_TFP_Comparado.json >}}
 
 > * FUENTE:
 >   * [Penn World Table 10.0](https://www.rug.nl/ggdc/productivity/pwt/?lang=en)

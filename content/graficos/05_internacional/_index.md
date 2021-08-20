@@ -16,7 +16,7 @@ Página en desarrollo
 
 ## Gráfico 1. Índice de tipo de cambio nominal multilateral (17-Ene-12 = 100)
 
-{{< bokeh itcnm.json >}}
+{{< bokeh 01.01_itcnm.json >}}
 
 > * FUENTES:
 >   * [Banco Central de la República Argentina](http://www.bcra.gob.ar/PublicacionesEstadisticas/Indices_tipo_cambio_multilateral.asp)
@@ -25,7 +25,7 @@ Página en desarrollo
 
 ## Gráfico 2. Índice de tipo de cambio real multilateral (17-Ene-12 = 100)
 
-{{< bokeh itcrm.json >}}
+{{< bokeh 01.02_itcrm.json >}}
 
 > * FUENTES:
 >   * [Banco Central de la República Argentina](http://www.bcra.gob.ar/PublicacionesEstadisticas/Indices_tipo_cambio_multilateral.asp)
@@ -34,7 +34,7 @@ Página en desarrollo
 
 ## Gráfico 3. Balanza de Pagos
 
-{{< bokeh bop.json >}}
+{{< bokeh 01.03_bop.json >}}
 
 > * FUENTES:
 >   * [Comisión Económica para América Latina y el Caribe (CEPAL)](https://estadisticas.cepal.org/cepalstat/web_cepalstat/estadisticasIndicadores.asp?idioma=e)
@@ -45,7 +45,7 @@ Página en desarrollo
 
 ## Gráfico 4. Intercambio Comercial Argentino (ICA)
 
-{{< bokeh ica.json >}}
+{{< bokeh 01.04_ica.json >}}
 
 > * FUENTES:
 >   * [Ministerio de Economía| Portal de Datos Económicos: Sector Externo](https://www.economia.gob.ar/datos/)
@@ -54,7 +54,7 @@ Página en desarrollo
 
 ## Gráfico 5. Índice de Precios de las Materias Primas (IPMP)
 
-{{< bokeh ipmp.json >}}
+{{< bokeh 01.05_ipmp.json >}}
 
 
 > * FUENTES:

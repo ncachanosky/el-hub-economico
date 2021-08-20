@@ -16,7 +16,7 @@ Página en desarrollo
 
 ## Gráfico 1. Crecimiento en Latino América: Tendencia (países selectos)
 
-{{< bokeh crecimiento_desde_2020.json >}}
+{{< bokeh 06.01_crecimiento_desde_2020.json >}}
 
 > * FUENTE
 >   * [Maddison Project Database, versión 2018](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2018?lang=en)
@@ -29,7 +29,7 @@ Página en desarrollo
 
 ## Gráfico 2. PBI per capita real PPP (2011 US$)
 
-{{< bokeh gdp_maddison.json >}}
+{{< bokeh 06.02_gdp_maddison.json >}}
 
 > * FUENTE
 >   * [Maddison Project Database, versión 2018](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2018?lang=en)
@@ -38,7 +38,7 @@ Página en desarrollo
 
 ## Gráfico 3. PBI per capita real PPP (2011 US$) (ranking mundial)
 
-{{< bokeh gdp_ranking.json >}}
+{{< bokeh 06.03_gdp_ranking.json >}}
 
 > * FUENTE
 >   * [Maddison Project Database, versión 2018](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2018?lang=en)
