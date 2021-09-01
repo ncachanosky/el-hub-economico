@@ -80,18 +80,36 @@ Página en desarrollo
 
 ---
 
-## Gráfico 7. Productividad total de los factores de producción en moneda local, Argentina (2017 = 1)
+## Gráfico 7. Formación bruta de capital fijo (%PBI): Argentina
 
-{{< bokeh 01.07_TFP_ARG.json >}}
+{{< bokeh 01.07_INV_Argentina.json >}}
+
+> * FUENTE:
+>   * [World Bank | World Development Indicators](http://datatopics.worldbank.org/world-development-indicators/)
+
+---
+
+## Gráfico 8. Formación bruta de capital fijo (%PBI): Países selectos
+
+{{< bokeh 01.08_INV_Comparado.json >}}
+
+> * FUENTE:
+>   * [World Bank | World Development Indicators](http://datatopics.worldbank.org/world-development-indicators/)
+
+---
+
+## Gráfico 9. Productividad total de los factores de producción en moneda local, Argentina (2017 = 1)
+
+{{< bokeh 01.09_TFP_ARG.json >}}
 
 > * FUENTE:
 >   * [Penn World Table 10.0](https://www.rug.nl/ggdc/productivity/pwt/?lang=en)
 
 ---
 
-## Gráfico 8. Productividad en países selectos (USA = 1)
+## Gráfico 10. Productividad en países selectos (USA = 1)
 
-{{< bokeh 01.08_TFP_Comparado.json >}}
+{{< bokeh 01.10_TFP_Comparado.json >}}
 
 > * FUENTE:
 >   * [Penn World Table 10.0](https://www.rug.nl/ggdc/productivity/pwt/?lang=en)

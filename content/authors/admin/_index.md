@@ -88,7 +88,8 @@ Bienvenidos a **El Hub Económico**. Este sitio provee un índice variables econ
 
 [**NICOLÁS CACHANOSKY**](https://www.ncachanosky.com) | {{< icon name="envelope" >}} ncachano@msudenver.edu  
 **Metropolitan State University of Denver** | Associate Professor of Economics  
-**American Institute for Economic Research** | Senior Fellow
+**American Institute for Economic Research** | Senior Fellow  
+**UCEMA Friedman-Hayek Center for the Study of a Free Society** | Fellow
 
 ---
 

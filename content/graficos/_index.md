@@ -14,8 +14,10 @@ type: book  # Do not modify.
 * Gráfico 4. PBI real (1993) participación por sector: Valor agregado bruto a precios de productor
 * Gráfico 5. PBI real (2004) por sector: Valor agregado bruto a precios de productor
 * Gráfico 6. PBI real (2004) participación por sector: Valor agregado bruto a precios de productor
-* Gráfico 7. Productividad total de los factores de producción en moneda local, Argentina (2017 = 1)
-* Gráfico 8. Productividad en países selectos (USA = 1)
+* Gráfico 7. Formación bruta de capital fijo (%PBI): Argentina
+* Gráfico 8. Formación bruta de capital fijo (%PBI): Países selectos
+* Gráfico 9. Productividad total de los factores de producción en moneda local, Argentina (2017 = 1)
+* Gráfico 10. Productividad en países selectos (USA = 1)
 * *En desarrollo*
 
 ## [Agregados monetarios y precios](https://www.elhubeconomico.com/graficos/02_agregados_monetarios/)

@@ -53,6 +53,13 @@ subtitle = ""
 ## Librería de gráficos
 
 * La economía argentina en gráficos
+  * Actividad económica
+  * Agregados monetarios y precios
+  * Datos fiscales
+  * Mercado laboral y pobreza
+  * Comercio internacional
+  * Desarrollo y series de largo plazo
+  * Series institucionales
 
 ## Listado de fuentes de datos
 
