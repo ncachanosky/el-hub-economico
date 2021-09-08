@@ -106,3 +106,13 @@ Página en desarrollo
 > ---
 > **Nota metodológica**: Promedio del índice de GINI por país (no ponderado por población) por cuartil de libertad económica.
 > $\text{(mayor igualdad) }0 \leftarrow GINI \rightarrow 100 \text{ (mayor desigualdad)}$
+
+---
+
+## Gráfico 10. Índice de libertad económica e ingreso del factor trabajo (\%PBI)
+
+{{< bokeh 07.00_efw_labor_share.json >}}
+
+> * FUENTES:
+>   * [Fraser Institute. *Economic Freedom of the World*](https://www.fraserinstitute.org/economic-freedom/map)
+>   * [Maddison Project Database, versión 2018](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2018?lang=en)
