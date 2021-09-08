@@ -111,7 +111,7 @@ Página en desarrollo
 
 ## Gráfico 10. Índice de libertad económica e ingreso del factor trabajo (\%PBI)
 
-{{< bokeh 07.00_efw_labor_share.json >}}
+{{< bokeh 07.10_efw_labor_share.json >}}
 
 > * FUENTES:
 >   * [Fraser Institute. *Economic Freedom of the World*](https://www.fraserinstitute.org/economic-freedom/map)
