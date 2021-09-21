@@ -8,7 +8,7 @@
 theme: my_theme
 day_night: true
 font: ''
-font_size: S
+font_size: M
 i_am_a_sponsor: true
 
 # SEO
@@ -17,7 +17,7 @@ site_type: Person
 local_business_type: ''
 org_name: 'El Hub Economico'
 description: ''
-#twitter: ''
+twitter: 'https://twitter.com/econ_hub'
 
 # Contact (edit or remove options as required)
 
