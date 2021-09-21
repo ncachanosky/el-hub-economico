@@ -46,6 +46,7 @@ type: book  # Do not modify.
 
 * Gráfico 1: Tasa de desempleo (promedio anual)
 * Gráfico 2: Personas bajo la línea de pobreza
+* Gráfico 3: Asalariados sector público y privado
 * *En desarrollo*
 
 ## [Comercio internacional](https://www.elhubeconomico.com/graficos/05_internacional/)

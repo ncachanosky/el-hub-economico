@@ -8,10 +8,6 @@ title: Comercio internacional
 type: book  # Do not modify.
 ---
 
-{{% callout note %}}
-Página en desarrollo
-{{% /callout %}}
-
 ---
 
 ## Gráfico 1. Índice de tipo de cambio nominal multilateral (17-Ene-12 = 100)

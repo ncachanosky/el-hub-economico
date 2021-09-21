@@ -8,10 +8,6 @@ title: Agregados monetarios y precios
 type: book  # Do not modify.
 ---
 
-{{% callout note %}}
-Página en desarrollo
-{{% /callout %}}
-
 ---
 
 ## Gráfico 1. Agregados monetarios: Variación interanual

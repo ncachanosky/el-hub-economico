@@ -8,10 +8,6 @@ title: Series institucionales
 type: book  # Do not modify.
 ---
 
-{{% callout note %}}
-Página en desarrollo
-{{% /callout %}}
-
 ---
 
 ## Gráfico 1. Tiempo en presidencia por partido político desde 1946

@@ -11,12 +11,6 @@ type: book  # Do not modify.
 
 ---
 
-{{% callout note %}}
-Página en desarrollo
-{{% /callout %}}
-
----
-
 ## Gráfico 1. Estimador Mensual de Actividad Económica (EMAE)
 
 {{< bokeh 01.01_emae.json >}}

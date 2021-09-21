@@ -8,10 +8,6 @@ title: Datos fiscales
 type: book  # Do not modify.
 ---
 
-{{% callout note %}}
-Página en desarrollo
-{{% /callout %}}
-
 ---
 
 ## Gráfico 1. Déficiti fiscal (nación y consolidado)

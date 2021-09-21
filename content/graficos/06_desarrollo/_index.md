@@ -8,10 +8,6 @@ title: Desarrollo y series de largo plazo
 type: book  # Do not modify.
 ---
 
-{{% callout note %}}
-Página en desarrollo
-{{% /callout %}}
-
 ---
 
 ## Gráfico 1. Crecimiento en Latino América: Tendencia (países selectos) (2000 - 2019)

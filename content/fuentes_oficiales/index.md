@@ -13,6 +13,7 @@ header:
 3. INDEC: Población
 4. Banco Central de la República Argentina (BCRA)
 5. Ministerio de Economía
+6. Ministerio de Trabajo y Seguridad Social (MTSS)
 
 ---
 
@@ -337,3 +338,9 @@ header:
     * Recompora de deuda
     * Consolidación de deuda
     * Carta de intención, memorandum de políticas económicas y financieras y memorandum de entendimiento técnico entre Argentina y el FMI
+
+---
+## Ministerio de Trabajo y Seguridad Social (MTSS)
+
+### 1. [Portal de Datos Económicos](https://www.economia.gob.ar/datos/)
+* [Estudios y Estadísticas Laborales](https://www.trabajo.gob.ar/estadisticas/)

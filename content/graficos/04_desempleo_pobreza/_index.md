@@ -8,10 +8,6 @@ title: Mercado laboral y pobreza
 type: book  # Do not modify.
 ---
 
-{{% callout note %}}
-Página en desarrollo
-{{% /callout %}}
-
 ---
 
 ## Gráfico 1: Tasa de desempleo (promedio anual)
@@ -33,3 +29,12 @@ Página en desarrollo
 >   * [Ministerio de Economía | Portal de Datos: Empleo e Ingresos](https://www.economia.gob.ar/datos/)
 >   * [CEDLAS](https://www.cedlas.econo.unlp.edu.ar/wp/en/estadisticas/sedlac/estadisticas/#1496165262484-7f826c3f-b5c3)
 >   * [UCA: Observatorio de la Deuda Social Argentina](http://uca.edu.ar/es/observatorio-de-la-deuda-social-argentina)
+
+---
+
+## Gráfico 3: Asalariados sector público y privado
+
+{{< bokeh 04.03_asalariados.json >}}
+
+> * FUENTES:
+>   * [Ministerio de Trabajo y Seguridad Social | Situación y Evolución del Trabajo Registrado](https://www.trabajo.gob.ar/estadisticas/trabajoregistrado/)
