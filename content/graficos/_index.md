@@ -18,7 +18,6 @@ type: book  # Do not modify.
 * Gráfico 8. Formación bruta de capital fijo (%PBI): Países selectos
 * Gráfico 9. Productividad total de los factores de producción en moneda local, Argentina (2017 = 1)
 * Gráfico 10. Productividad en países selectos (USA = 1)
-* *En desarrollo*
 
 ## [Agregados monetarios y precios](https://www.elhubeconomico.com/graficos/02_agregados_monetarios/)
 
@@ -28,7 +27,6 @@ type: book  # Do not modify.
 * Gráfico 4. Tiempo en que se duplica el nivel de precios
 * Gráfico 5. Reservas del BCRA
 * Gráfico 6. Pasivos del BCRA
-* *En desarrollo*
 
 ## [Datos fiscales](https://www.elhubeconomico.com/graficos/03_datos_fiscales/)
 
@@ -40,14 +38,12 @@ type: book  # Do not modify.
 * Gráfico 6. Gasto consolidado por finalidad (1980 - 2017)
 * Gráfico 7. Deuda de la administración central
 * Gráfico 8. Tiempo en default o bajo reestructuración desde la independencia y la Segunda Guerra Mundial
-* *En desarrollo*
 
 ## [Mercado laboral y pobreza](https://www.elhubeconomico.com/graficos/04_desempleo_pobreza/)
 
 * Gráfico 1: Tasa de desempleo (promedio anual)
 * Gráfico 2: Personas bajo la línea de pobreza
 * Gráfico 3: Asalariados sector público y privado
-* *En desarrollo*
 
 ## [Comercio internacional](https://www.elhubeconomico.com/graficos/05_internacional/)
 
@@ -56,14 +52,12 @@ type: book  # Do not modify.
 * Gráfico 3. Balanza de Pagos
 * Gráfico 4. Intercambio Comercial Argentino (ICA)
 * Gráfico 5. Índice de Precios de las Materias Primas (IPMP)
-* *En desarrollo*
 
 ## [Desarrollo y series de largo plazo](https://www.elhubeconomico.com/graficos/06_desarrollo/)
 
 * Gráfico 1. Crecimiento en Latino América: Tendencia (países selectos)
 * Gráfico 2. PBI per capita real PPP (2011 US$)
 * Gráfico 3. PBI per capita real PPP (2011 US$) (ranking mundial)
-* *En desarrollo*
 
 ## [Series institucionales](https://www.elhubeconomico.com/graficos/07_instituciones/)
 
@@ -77,4 +71,3 @@ type: book  # Do not modify.
 * Gráfico 8. Índice de libertad económica y participación del ingeso del primer decil
 * Gráfico 9. Índice de libertad económica y índice de GINI
 * ráfico 10. Índice de libertad económica e ingreso del factor trabajo (\%PBI)
-* *En desarrollo* 
