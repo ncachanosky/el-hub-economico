@@ -41,3 +41,13 @@ type: book  # Do not modify.
 >   * Cálculos del autor
 > ---
 > **Nota metodológica:** En 1950 la muestra aumenta de 50 a 149 países. Esto produce un aumento "artificial" en el ranking de Argentina, dado que sólo dos de los nuevos paises poseen un GDP per cápita mayor al de Argentina al incorporarse a la muestra (Luxemburgo e Islandia). 
+
+---
+
+## Gráfico 4. Crecimiento anualizado, PBI real, por décadas
+
+{{< bokeh 06.04_gdp_decadas.json >}}
+
+> * FUENTE
+>   * [Dos Siglos de Economía Argentina](https://dossiglos.fundacionnorteysur.org.ar/)
+>   * [Instituto Nacional de Estadísticas y Censos (INDEC)](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-9-47) 

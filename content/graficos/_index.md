@@ -57,7 +57,8 @@ type: book  # Do not modify.
 
 * Gráfico 1. Crecimiento en Latino América: Tendencia (países selectos)
 * Gráfico 2. PBI per capita real PPP (2011 US$)
-* Gráfico 3. PBI per capita real PPP (2011 US$) (ranking mundial)
+* Gráfico 3. PBI per capita real PPP (2011 US$) (ranking mundial*
+* Gráfico 4. Crecimiento anualizado, PBI real, por décadas
 
 ## [Series institucionales](https://www.elhubeconomico.com/graficos/07_instituciones/)
 
