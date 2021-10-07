@@ -71,4 +71,4 @@ type: book  # Do not modify.
 * Gráfico 7. Índice de libertad económica por región
 * Gráfico 8. Índice de libertad económica y participación del ingeso del primer decil
 * Gráfico 9. Índice de libertad económica y índice de GINI
-* ráfico 10. Índice de libertad económica e ingreso del factor trabajo (\%PBI)
+* Gráfico 10. Índice de libertad económica e ingreso del factor trabajo (\%PBI)
