@@ -66,9 +66,10 @@ type: book  # Do not modify.
 * Gráfico 2. Tiempo en presidencia por partido político desde 1983
 * Gráfico 3. Ministros de Economía (días en ejercicio)
 * Gráfico 4. Presidentes del BCRA (días en ejercicio)
-* Gráfico 5. Índice de libertad económica
-* Gráfico 6. Índice de libertad económica y PBI per cápita
-* Gráfico 7. Índice de libertad económica por región
-* Gráfico 8. Índice de libertad económica y participación del ingeso del primer decil
-* Gráfico 9. Índice de libertad económica y índice de GINI
-* Gráfico 10. Índice de libertad económica e ingreso del factor trabajo (\%PBI)
+* Gráfico 5. Índice de Confianza en el Gobierno
+* Gráfico 6. Índice de libertad económica
+* Gráfico 7. Índice de libertad económica y PBI per cápita
+* Gráfico 8. Índice de libertad económica por región
+* Gráfico 9. Índice de libertad económica y participación del ingeso del primer decil
+* Gráfico 10. Índice de libertad económica y índice de GINI
+* Gráfico 11. Índice de libertad económica e ingreso del factor trabajo (\%PBI)

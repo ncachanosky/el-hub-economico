@@ -46,18 +46,26 @@ type: book  # Do not modify.
 
 ---
 
-## Gráfico 5. Índice de libertad económica
+## Gráfico 5. Índice de Confianza en el Gobierno
 
-{{< bokeh 07.05_efw_rank.json >}}
+{{< bokeh 07.05_ICG.json >}}
+
+> * FUENTES:
+>   * [Universidad Torcuato di Tella: Escuela de Gobierno](https://www.utdt.edu/ver_contenido.php?id_contenido=1351&id_item_menu=2970)
+---
+
+## Gráfico 6. Índice de libertad económica
+
+{{< bokeh 07.06_efw_rank.json >}}
 
 > * FUENTES:
 >   * [Fraser Institute. *Economic Freedom of the World*](https://www.fraserinstitute.org/economic-freedom/map)
 
 ---
 
-## Gráfico 6. Índice de libertad económica y PBI per cápita
+## Gráfico 7. Índice de libertad económica y PBI per cápita
 
-{{< bokeh 07.06_efw_gdp.json >}}
+{{< bokeh 07.07_efw_gdp.json >}}
 
 > * FUENTES:
 >   * [Fraser Institute. *Economic Freedom of the World*](https://www.fraserinstitute.org/economic-freedom/map)
@@ -65,9 +73,9 @@ type: book  # Do not modify.
 
 ---
 
-## Gráfico 7. Índice de libertad económica por región
+## Gráfico 8. Índice de libertad económica por región
 
-{{< bokeh 07.07_efw_regional.json >}}
+{{< bokeh 07.08_efw_regional.json >}}
 
 > * FUENTES:
 >   * [Fraser Institute. *Economic Freedom of the World*](https://www.fraserinstitute.org/economic-freedom/map)
@@ -78,9 +86,9 @@ type: book  # Do not modify.
 
 ---
 
-## Gráfico 8. Índice de libertad económica y participación del ingeso del primer decil
+## Gráfico 9. Índice de libertad económica y participación del ingeso del primer decil
 
-{{< bokeh 07.08_efw_bottom_10.json >}}
+{{< bokeh 07.09_efw_bottom_10.json >}}
 
 > * FUENTES:
 >   * [Fraser Institute. *Economic Freedom of the World*](https://www.fraserinstitute.org/economic-freedom/map)
@@ -91,9 +99,9 @@ type: book  # Do not modify.
 
 ---
 
-## Gráfico 9. Índice de libertad económica y índice de GINI
+## Gráfico 10. Índice de libertad económica y índice de GINI
 
-{{< bokeh 07.09_efw_GINI.json >}}
+{{< bokeh 07.10_efw_GINI.json >}}
 
 > * FUENTES:
 >   * [Fraser Institute. *Economic Freedom of the World*](https://www.fraserinstitute.org/economic-freedom/map)
@@ -105,9 +113,9 @@ type: book  # Do not modify.
 
 ---
 
-## Gráfico 10. Índice de libertad económica e ingreso del factor trabajo (\%PBI)
+## Gráfico 11. Índice de libertad económica e ingreso del factor trabajo (\%PBI)
 
-{{< bokeh 07.10_efw_labor_share.json >}}
+{{< bokeh 07.11_efw_labor_share.json >}}
 
 > * FUENTES:
 >   * [Fraser Institute. *Economic Freedom of the World*](https://www.fraserinstitute.org/economic-freedom/map)

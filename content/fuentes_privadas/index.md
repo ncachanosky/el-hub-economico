@@ -31,7 +31,8 @@ header:
     * Relevamiento inmobiliario de América Latina
     * Indice de Confianza del Consumidor (ICC)
     * Encuesta de expectativas de inflación
-    * Indice lider
+    * Índice lider
+    * Índice de Confianza en el Gobierno (ICG)
 7. Inflación Verdadera
     * Inflación Argentina
     * Inflación Venezuela
@@ -93,6 +94,8 @@ header:
     * Encuesta de Expectativas de Inflación
     * Indice Líder
     * Indicadores discontinuados
+* Escuela de Gobierno
+    * [Índice de Confianza en el Gobierno](https://www.utdt.edu/ver_contenido.php?id_contenido=1351&id_item_menu=2970)
 
 
 ---
