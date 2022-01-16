@@ -79,3 +79,9 @@ type: book  # Do not modify.
 > * FUENTE:
 >   * [Balance semanal del BCRA](http://www.bcra.gob.ar/PublicacionesEstadisticas/balances_semanales.asp)
 >   * Cálculos del autor
+
+## Grafico 7. Pérdida del poder adquisitivo de 100 pesos
+
+![02.06](02.07_Evita.png)
+
+<a href="02.07_Evita.png" class="fancy-button">Bajar gráfico</a>

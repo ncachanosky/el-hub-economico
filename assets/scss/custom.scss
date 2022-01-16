@@ -1,0 +1,62 @@
+.blue { color: #00447c; }
+.red { color: #d11242; }
+.grey { color: #717073; }
+
+a:hover {
+    text-decoration: underline;
+    color: #CCAC00
+}
+
+.fancy-button {
+    background-color: whitesmoke;
+    border: 1px solid black;
+    border-radius: 0.2rem;
+    color: black;
+    padding: 5px .4rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 0.9;
+}
+
+.fancy-button:hover {
+    color: white;
+    border: 1px solid black;
+    background-color: black;
+}
+
+.alert-dark {
+    color: black;
+    background-color: #d6d8d9;
+    border-color: #c6c8ca;
+}
+
+.center-button {
+    text-align: center;
+}
+
+.subscribe-button {
+    background-color: #849946;
+    border: 1px solid #849946;
+    border-radius: 0.2rem;
+    color: white;
+    padding: 1em 1em;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 0.9;
+    font-size: large;
+}
+
+.subscribe-button:hover {
+    color: white;
+    border: 1px solid #CCAC00;
+    background-color: #CCAC00;
+}
+
+.my_footer {
+    font-size: .67rem;
+    text-align: center
+}
