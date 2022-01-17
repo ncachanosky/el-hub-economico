@@ -27,6 +27,7 @@ type: book  # Do not modify.
 * Gráfico 4. Tiempo en que se duplica el nivel de precios
 * Gráfico 5. Reservas del BCRA
 * Gráfico 6. Pasivos del BCRA
+* Gráfico 7. Pérdida de poder adquisito del peso
 
 ## [Datos fiscales](https://www.elhubeconomico.com/graficos/03_datos_fiscales/)
 

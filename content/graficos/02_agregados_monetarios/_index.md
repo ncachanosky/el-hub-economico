@@ -84,4 +84,4 @@ type: book  # Do not modify.
 
 ![02.06](02.07_Evita.jpg)
 
-<a href="02.07_Evita.png" class="fancy-button">Bajar gráfico</a>
+<a href="02.07_Evita.jpg" class="fancy-button">Bajar gráfico</a>
