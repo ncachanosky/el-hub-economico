@@ -82,6 +82,6 @@ type: book  # Do not modify.
 
 ## Grafico 7. Pérdida del poder adquisitivo de 100 pesos
 
-![02.06](02.07_Evita.png)
+![02.06](02.07_Evita.jpg)
 
 <a href="02.07_Evita.png" class="fancy-button">Bajar gráfico</a>
