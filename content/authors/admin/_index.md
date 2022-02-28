@@ -68,7 +68,7 @@ Bienvenidos a **El Hub Económico**. Este sitio provee un índice variables econ
 
 ---
 
-<a href="https://twitter.com/econ_hub?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @econ_hub</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  <script async defer src="https://buttons.github.io/buttons.js"></script>
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 <a class="github-button" href="https://github.com/ncachanosky/el-hub-economico/issues" aria-label="Issue ncachanosky/el-hub-economico on GitHub">Issue</a>
 <a class="github-button" href="https://github.com/ncachanosky/el-hub-economico" data-icon="octicon-star" data-show-count="true" aria-label="Star ncachanosky/el-hub-economico on GitHub">Star</a>
 <a class="github-button" href="https://github.com/ncachanosky/el-hub-economico/subscription" data-icon="octicon-eye" data-show-count="true" aria-label="Watch ncachanosky/el-hub-economico on GitHub">Watch</a>

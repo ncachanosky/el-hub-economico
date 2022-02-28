@@ -12,29 +12,22 @@ type: book  # Do not modify.
 
 ## Gráfico 1: Tasa de desempleo (promedio anual)
 
-{{< bokeh 04.01_desempleo.json >}}
+![04.01](04.01_desempleo.json)
 
-> * FUENTES:
->   * [Ministerio de Economía | Portal de Datos: Empleo e Ingresos](https://www.economia.gob.ar/datos/)
-> ---
-> **Nota metodológica**: Las series compiladas no son extrictamente comparables. En el período 1982-2017 hay cambios en cobertura territorial de la EPH y en su metodología.
+{{< icon name="download" pack="fas" >}} [Download](04.01_desempleo.json)
 
 ---
 
 ## Gráfico 2: Personas bajo la línea de pobreza
 
-{{< bokeh 04.02_pobreza.json >}}
+![04.02](04.02_Pobreza.png)
 
-> * FUENTES:
->   * [Ministerio de Economía | Portal de Datos: Empleo e Ingresos](https://www.economia.gob.ar/datos/)
->   * [CEDLAS](https://www.cedlas.econo.unlp.edu.ar/wp/en/estadisticas/sedlac/estadisticas/#1496165262484-7f826c3f-b5c3)
->   * [UCA: Observatorio de la Deuda Social Argentina](http://uca.edu.ar/es/observatorio-de-la-deuda-social-argentina)
+{{< icon name="download" pack="fas" >}} [Download](04.02_Pobreza.png)
 
 ---
 
 ## Gráfico 3: Asalariados sector público y privado
 
-{{< bokeh 04.03_asalariados.json >}}
+![04.03](04.03_Asalariados.png)
 
-> * FUENTES:
->   * [Ministerio de Trabajo y Seguridad Social | Situación y Evolución del Trabajo Registrado](https://www.trabajo.gob.ar/estadisticas/trabajoregistrado/)
+{{< icon name="download" pack="fas" >}} [Download](04.03_Asalariados.png)

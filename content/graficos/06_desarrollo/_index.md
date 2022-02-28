@@ -12,42 +12,30 @@ type: book  # Do not modify.
 
 ## Gráfico 1. Crecimiento en Latino América: Tendencia (países selectos) (2000 - 2019)
 
-{{< bokeh 06.01_crecimiento_desde_2020.json >}}
+![06.01](06.01_Crecimiento_2000.png)
 
-> * FUENTE
->   * [Maddison Project Database, versión 2018](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2018?lang=en)
->   * Cálculos del autor
-> ---
-> **Nota metodológica**: El crecimiento se calcula sobre la tendencia (filtro HP) del PBI per cápita ajustado por costo de vida (PPP).
-
+{{< icon name="download" pack="fas" >}} [Download](06.01_Crecimiento_2000.png)
 
 ---
 
 ## Gráfico 2. PBI per capita real PPP (2011 US$)
 
-{{< bokeh 06.02_gdp_maddison.json >}}
+![06.02](06.02_GDP_Maddison.png)
 
-> * FUENTE
->   * [Maddison Project Database, versión 2018](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2018?lang=en)
+{{< icon name="download" pack="fas" >}} [Download](06.02_GDP_Maddison.png)
 
 ---
 
 ## Gráfico 3. PBI per capita real PPP (2011 US$) (ranking mundial)
 
-{{< bokeh 06.03_gdp_ranking.json >}}
+![06.03](06.03_PBI_Ranking.png)
 
-> * FUENTE
->   * [Maddison Project Database, versión 2018](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2018?lang=en)
->   * Cálculos del autor
-> ---
-> **Nota metodológica:** En 1950 la muestra aumenta de 50 a 149 países. Esto produce un aumento "artificial" en el ranking de Argentina, dado que sólo dos de los nuevos paises poseen un GDP per cápita mayor al de Argentina al incorporarse a la muestra (Luxemburgo e Islandia). 
+{{< icon name="download" pack="fas" >}} [Download](06.03_PBI_Ranking.png)
 
 ---
 
 ## Gráfico 4. Crecimiento anualizado, PBI real, por décadas
 
-{{< bokeh 06.04_gdp_decadas.json >}}
+![06.04](06.04_PBI_por_Decadas.png)
 
-> * FUENTE
->   * [Dos Siglos de Economía Argentina](https://dossiglos.fundacionnorteysur.org.ar/)
->   * [Instituto Nacional de Estadísticas y Censos (INDEC)](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-9-47) 
+{{< icon name="download" pack="fas" >}} [Download](06.04_PBI_por_Decadas.png)

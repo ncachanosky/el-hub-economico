@@ -12,111 +12,86 @@ type: book  # Do not modify.
 
 ## Gráfico 1. Tiempo en presidencia por partido político desde 1946
 
-{{< bokeh 07.01_gobiernos_share_1946.json >}}
+![07.01](07.01_Gobiernos_1946.png)
 
-> * FUENTES:
->   * Cálculos del autor
+{{< icon name="download" pack="fas" >}} [Download](07.01_Gobiernos_1946.png)
 
 ---
 
 ## Gráfico 2. Tiempo en presidencia por partido político desde 1983
 
-{{< bokeh 07.02_gobiernos_share_1983.json >}}
+![07.02](07.02_Gobiernos_1983.png)
 
-> * FUENTES:
->   * Cálculos del autor
+{{< icon name="download" pack="fas" >}} [Download](07.02_Gobiernos_1983.png)
 
 ---
 
 ## Gráfico 3. Ministros de Economía (días en ejercicio)
 
-{{< bokeh 07.03_ministros_dias.json >}}
+![07.03](07.03_Ministros_Dias.png)
 
-> * FUENTES:
->   * Cálculos del autor
+{{< icon name="download" pack="fas" >}} [Download](07.03_Ministros_Dias.png)
 
 ---
 
 ## Gráfico 4. Presidentes del BCRA (días en ejercicio)
 
-{{< bokeh 07.04_bcra_dias.json >}}
+![07.04](07.04_BCRA_Dias.png)
 
-> * FUENTES:
->   * Cálculos del autor
+{{< icon name="download" pack="fas" >}} [Download](07.04_BCRA_Dias.png)
 
 ---
 
 ## Gráfico 5. Índice de Confianza en el Gobierno
 
-{{< bokeh 07.05_ICG.json >}}
+![07.05](07.05_ICG.png)
 
-> * FUENTES:
->   * [Universidad Torcuato di Tella: Escuela de Gobierno](https://www.utdt.edu/ver_contenido.php?id_contenido=1351&id_item_menu=2970)
+{{< icon name="download" pack="fas" >}} [Download](07.05_ICG.png)
+
 ---
 
 ## Gráfico 6. Índice de libertad económica
 
-{{< bokeh 07.06_efw_rank.json >}}
+![07.06](07.06_EFW_Rank.png)
 
-> * FUENTES:
->   * [Fraser Institute. *Economic Freedom of the World*](https://www.fraserinstitute.org/economic-freedom/map)
+{{< icon name="download" pack="fas" >}} [Download](07.06_EFW_Rank.png)
 
 ---
 
 ## Gráfico 7. Índice de libertad económica y PBI per cápita
 
-{{< bokeh 07.07_efw_gdp.json >}}
+![07.07](07.07_EFW_GDPperCapita.png)
 
-> * FUENTES:
->   * [Fraser Institute. *Economic Freedom of the World*](https://www.fraserinstitute.org/economic-freedom/map)
->   * [Banco Mundial: World Development Indicators](https://datatopics.worldbank.org/world-development-indicators/)
+{{< icon name="download" pack="fas" >}} [Download](07.07_EFW_GDPperCapita.png)
 
 ---
 
 ## Gráfico 8. Índice de libertad económica por región
 
-{{< bokeh 07.08_efw_regional.json >}}
+![07.08](07.08_EFW_xRegion.png)
 
-> * FUENTES:
->   * [Fraser Institute. *Economic Freedom of the World*](https://www.fraserinstitute.org/economic-freedom/map)
->   * [Banco Mundial: World Development Indicators](https://datatopics.worldbank.org/world-development-indicators/)
->   * Cálculos del autor
-> ---
-> **Nota metodológica**: Los índices regionales son promedios ponderados por población
+{{< icon name="download" pack="fas" >}} [Download](07.08_EFW_xRegion.png)
 
 ---
 
 ## Gráfico 9. Índice de libertad económica y participación del ingeso del primer decil
 
-{{< bokeh 07.09_efw_bottom_10.json >}}
+![07.09](07.09_EFW_GDPxCuartil.png)
 
-> * FUENTES:
->   * [Fraser Institute. *Economic Freedom of the World*](https://www.fraserinstitute.org/economic-freedom/map)
->   * [Banco Mundial: World Development Indicators](https://datatopics.worldbank.org/world-development-indicators/)
->   * Cálculos del autor
-> ---
-> **Nota metodológica**: Promedio de la participación del ingreso del primer decil por país (no ponderado por población) por cuartil de libertad económica.
+{{< icon name="download" pack="fas" >}} [Download](07.09_EFW_GDPxCuartil.png)
 
 ---
 
 ## Gráfico 10. Índice de libertad económica y índice de GINI
 
-{{< bokeh 07.10_efw_GINI.json >}}
+![07.10](07.10_EFW_PrimerDecil.png)
 
-> * FUENTES:
->   * [Fraser Institute. *Economic Freedom of the World*](https://www.fraserinstitute.org/economic-freedom/map)
->   * [Banco Mundial: World Development Indicators](https://datatopics.worldbank.org/world-development-indicators/)
->   * Cálculos del autor
-> ---
-> **Nota metodológica**: Promedio del índice de GINI por país (no ponderado por población) por cuartil de libertad económica.
-> $\text{(mayor igualdad) }0 \leftarrow GINI \rightarrow 100 \text{ (mayor desigualdad)}$
+{{< icon name="download" pack="fas" >}} [Download](07.10_EFW_PrimerDecil.png)
 
 ---
 
 ## Gráfico 11. Índice de libertad económica e ingreso del factor trabajo (\%PBI)
 
-{{< bokeh 07.11_efw_labor_share.json >}}
+![07.10](07.11_EFW_GINI.png)
 
-> * FUENTES:
->   * [Fraser Institute. *Economic Freedom of the World*](https://www.fraserinstitute.org/economic-freedom/map)
->   * [Maddison Project Database, versión 2018](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2018?lang=en)
+{{< icon name="download" pack="fas" >}} [Download](07.11_EFW_GINI.png)

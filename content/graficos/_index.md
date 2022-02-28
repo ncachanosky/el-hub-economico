@@ -10,14 +10,10 @@ type: book  # Do not modify.
 
 * Gráfico 1. Estimador Mensual de Actividad Económica (EMAE)
 * Gráfico 2. PBI real (1994 - 2019)
-* Gráfico 3. PBI real (1993) por sector: Valor agregado bruto a precios de productor
-* Gráfico 4. PBI real (1993) participación por sector: Valor agregado bruto a precios de productor
-* Gráfico 5. PBI real (2004) por sector: Valor agregado bruto a precios de productor
-* Gráfico 6. PBI real (2004) participación por sector: Valor agregado bruto a precios de productor
-* Gráfico 7. Formación bruta de capital fijo (%PBI): Argentina
-* Gráfico 8. Formación bruta de capital fijo (%PBI): Países selectos
-* Gráfico 9. Productividad total de los factores de producción en moneda local, Argentina (2017 = 1)
-* Gráfico 10. Productividad en países selectos (USA = 1)
+* Gráfico 3. Formación bruta de capital fijo (%PBI): Argentina
+* Gráfico 4. Formación bruta de capital fijo (%PBI): Países selectos
+* Gráfico 5. Productividad total de los factores de producción en moneda local, Argentina (2017 = 1)
+* Gráfico 6. Productividad en países selectos (USA = 1)
 
 ## [Agregados monetarios y precios](https://www.elhubeconomico.com/graficos/02_agregados_monetarios/)
 
@@ -25,9 +21,10 @@ type: book  # Do not modify.
 * Gráfico 2. Inflación interanual
 * Gráfico 3. Agregados monetarios e IPC
 * Gráfico 4. Tiempo en que se duplica el nivel de precios
-* Gráfico 5. Reservas del BCRA
-* Gráfico 6. Pasivos del BCRA
-* Gráfico 7. Pérdida de poder adquisito del peso
+* Gráfico 5. Inflación acumulada por presidente
+* Gráfico 6. Reservas del BCRA
+* Gráfico 7. Pasivos del BCRA
+* Gráfico 8. Pérdida de poder adquisito del peso
 
 ## [Datos fiscales](https://www.elhubeconomico.com/graficos/03_datos_fiscales/)
 

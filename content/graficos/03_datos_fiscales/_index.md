@@ -12,77 +12,62 @@ type: book  # Do not modify.
 
 ## Gráfico 1. Déficiti fiscal (nación y consolidado)
 
-{{< bokeh 03.01_fiscal_deficit.json >}}
+![03.01](03.01_Deficit_Consolidado.png)
 
-> * FUENTES: 
->   * Ministerio de Economía | [Oficina Nacional de Presupuesto](https://www.economia.gob.ar/onp/documentos/series/Serie1961-2004.pdf) 
->   * Ministerio de Economía | [Boletín Fiscal](https://www.economia.gob.ar/onp/ejecucion/2020)
->   * Cálculos del autor
-> ---
-> **Nota metodológica**: Al resultado financiero oficial se le substraen las transferencias de ANSES y BCRA que, bajo período 2003 - 2017 se contabilizaban como ingresos "regulares" del Tesoro Nacional. Por consistencia se substrean los mismos montos para los años anteriores al 2003 (montos sin impacto substancial en el resultado fiscal del Tesoro). El resultado fiscal también substrae los intereses intra sector público.
+{{< icon name="download" pack="fas" >}} [Download](03.01_Deficit_Consolidado.png)
 
 ---
 
 ## Gráfico 2. Recaudación por impuesto
 
-{{< bokeh 03.02_recaudacion_por_impuesto.json >}}
+![03.02](03.02_Participacion_Impuesto.png)
 
-> * FUENTES: 
->   * Ministerio de Economía | [Boletín Fiscal](https://www.economia.gob.ar/onp/ejecucion/2020)
+{{< icon name="download" pack="fas" >}} [Download](03.02_Participacion_Impuesto.png)
 
 ---
 
 ## Gráfico 3. Gasto del tesoro nacional (pesos del 2002 | 2002 = 100)
 
-{{< bokeh 03.03_gasto_tesoro_real.json >}}
+![03.03](03.03_Gasto_Real.png)
 
-> * FUENTES: 
->   * Ministerio de Economía | [Boletín Fiscal](https://www.economia.gob.ar/onp/ejecucion/2020)
->   * Cálculos del autor
+{{< icon name="download" pack="fas" >}} [Download](03.03_Gasto_Real.png)
 
 ---
 
 ## Gráfico 4. Intereses sobre ingresos del Tesoro National
 
-{{< bokeh 03.04_intereses_ingresos.json >}}
+![03.04](03.04_Intereses_Ingresos.png)
 
-> * FUENTE 
->   * Ministerio de Economía | [Boletín Fiscal](https://www.economia.gob.ar/onp/ejecucion/2020)
->   * Cálculos del autor
+{{< icon name="download" pack="fas" >}} [Download](03.04_Intereses_Ingresos.png)
 
 ---
 
 ## Gráfico 5. Gasto consolidado por nivel de gobierno (1980 - 2017)
 
-{{< bokeh 03.05_gasto_consolidado_nivel.json >}}
+![03.05](03.05_Gasto_Consolidado_Nivel.png)
 
-> * FUENTE 
->   * Ministerio de Economía | [Secretaría de Política Económica](https://www.argentina.gob.ar/economia/politicaeconomica/macroeconomica/gastopublicoconsolidado)
+{{< icon name="download" pack="fas" >}} [Download](03.05_Gasto_Consolidado_Nivel.png)
 
 ---
 
 ## Gráfico 6. Gasto consolidado por finalidad (1980 - 2017)
 
-{{< bokeh 03.06_gasto_consolidado_finalidad.json >}}
+![03.06](03.06_Gasto_Consolidado_Finalidad.png)
 
-> * FUENTE 
->   * Ministerio de Economía | [Secretaría de Política Económica](https://www.argentina.gob.ar/economia/politicaeconomica/macroeconomica/gastopublicoconsolidado)
+{{< icon name="download" pack="fas" >}} [Download](03.06_Gasto_Consolidado_Finalidad.png)
 
 ---
 
 ## Gráfico 7. Deuda de la administración central
 
-{{< bokeh 03.07_deuda_publica.json >}}
+![03.07](03.07_Deuda_Publica.png)
 
-> * FUENTE 
->   * Ministerio de Economía | [Secretaría de Finanzas](https://www.argentina.gob.ar/economia/finanzas/presentaciongraficadeudapublica)
+{{< icon name="download" pack="fas" >}} [Download](03.06_Gasto_Consolidado_Finalidad.png)
 
 ---
 
 ## Gráfico 8. Tiempo en default o bajo reestructuración desde la independencia y la Segunda Guerra Mundial
 
-{{< bokeh 03.08_tiempo_en_default.json >}}
+![03.08](03.08_Tiempo_Default.png)
 
-> * FUENTE 
->   * Reinhart & Rogoff, [*This Time is Different: Eight Centuries of Financial Folly*](https://scholar.harvard.edu/rogoff/time-different%E2%80%94data-files). Princeton and Oxford: Princeton University Press
->   * Cálculos del autor
+{{< icon name="download" pack="fas" >}} [Download](03.06_Gasto_Consolidado_Finalidad.png)

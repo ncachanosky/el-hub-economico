@@ -13,97 +13,46 @@ type: book  # Do not modify.
 
 ## Gráfico 1. Estimador Mensual de Actividad Económica (EMAE)
 
-{{< bokeh 01.01_emae.json >}}
+![01.01](01.01_EMAE.png)
 
-> * FUENTE:
->   * [Ministerio de Economía | Portal de Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
->   * Cálculos del autor.
+{{< icon name="download" pack="fas" >}} [Download](01.01_EMAE.png)
 
 ---
 
 ## Gráfico 2. PBI real (1994 - 2019)
 
-{{< bokeh 01.02_pbi_real.json >}}
+![01.02](01.02_PBI_real.png)
 
-> * FUENTE:
->   * [Instituto Nacional de Estadísticas y Censos (INDEC)](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-9-47)
-
----
-
-## Gráfico 3. PBI real (1993) por sector: Valor agregado bruto a precios de productor
-
-{{< bokeh 01.03_pbi_real_1993_sector.json >}}
-
-> * FUENTE:
->   * [Ministerio de Economía | Portal de Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
-> ---
-> **Nota metodológica**: Siendo `VA` valor agregado:  
-> `PBI` =  `VA bruto` + `Impuesto al VA` + `Impuesto a las importacIones`  
-> `VA bruto` = $\sum$ `VA por sector` - `Intermediación financiera medido indirectamente`
+{{< icon name="download" pack="fas" >}} [Download](01.02_PBI_real.png)
 
 ---
 
-## Gráfico 4. PBI real (1993) participación por sector: Valor agregado bruto a precios de productor
+## Gráfico 3. Formación bruta de capital fijo (%PBI): Argentina
 
-{{< bokeh 01.04_pbi_real_1993_sector_part.json >}}
+![01.03](01.03_Capital_Fijo.png)
 
-> * FUENTE:
->   * [Ministerio de Economía | Portal de Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
-
----
-
-## Gráfico 5. PBI real (2004) por sector: Valor agregado bruto a precios de productor
-
-{{< bokeh 01.05_pbi_real_2004_sector.json >}}
-
-> * FUENTE:
->   * [Ministerio de Economía | Portal de Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
-> ---
-> **Nota metodológica**: Siendo `VA` valor agregado:  
-> `PBI` =  `VA bruto` + `Impuesto al VA` + `Derechos a las importacIones` + `Impuestos netos de subsidios`
-> `VA bruto` = $\sum$ `VA por sector`
+{{< icon name="download" pack="fas" >}} [Download](01.03_Capital_Fijo.png)
 
 ---
 
-## Gráfico 6. PBI real (2004) participación por sector: Valor agregado bruto a precios de productor
+## Gráfico 4. Formación bruta de capital fijo (%PBI): Países selectos
 
-{{< bokeh 01.06_pbi_real_2004_sector_part.json >}}
+![01.04](01.04_Capital_Fijo_Paises.png)
 
-> * FUENTE:
->   * [Ministerio de Economía | Portal de Datos Económicos: Actividad Económica](https://www.economia.gob.ar/datos/)
-
----
-
-## Gráfico 7. Formación bruta de capital fijo (%PBI): Argentina
-
-{{< bokeh 01.07_INV_Argentina.json >}}
-
-> * FUENTE:
->   * [World Bank | World Development Indicators](http://datatopics.worldbank.org/world-development-indicators/)
+{{< icon name="download" pack="fas" >}} [Download](01.04_Capital_Fijo_Paises.png)
 
 ---
 
-## Gráfico 8. Formación bruta de capital fijo (%PBI): Países selectos
+## Gráfico 5. Productividad total de los factores de producción en moneda local, Argentina (2017 = 1)
 
-{{< bokeh 01.08_INV_Comparado.json >}}
+![01.05](01.05_TFP.png)
 
-> * FUENTE:
->   * [World Bank | World Development Indicators](http://datatopics.worldbank.org/world-development-indicators/)
-
----
-
-## Gráfico 9. Productividad total de los factores de producción en moneda local, Argentina (2017 = 1)
-
-{{< bokeh 01.09_TFP_ARG.json >}}
-
-> * FUENTE:
->   * [Penn World Table 10.0](https://www.rug.nl/ggdc/productivity/pwt/?lang=en)
+{{< icon name="download" pack="fas" >}} [Download](01.05_TFP.png)
 
 ---
 
-## Gráfico 10. Productividad en países selectos (USA = 1)
+## Gráfico 6. Productividad en países selectos (USA = 1)
 
-{{< bokeh 01.10_TFP_Comparado.json >}}
+![01.06](01.06_TFP_Paises.png)
 
-> * FUENTE:
->   * [Penn World Table 10.0](https://www.rug.nl/ggdc/productivity/pwt/?lang=en)
+{{< icon name="download" pack="fas" >}} [Download](01.06_TFP_Paises.png)

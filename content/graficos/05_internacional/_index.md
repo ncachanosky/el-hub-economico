@@ -12,46 +12,38 @@ type: book  # Do not modify.
 
 ## Gráfico 1. Índice de tipo de cambio nominal multilateral (17-Ene-12 = 100)
 
-{{< bokeh 01.01_itcnm.json >}}
+![05.01](05.01_ITCNM.png)
 
-> * FUENTES:
->   * [Banco Central de la República Argentina](http://www.bcra.gob.ar/PublicacionesEstadisticas/Indices_tipo_cambio_multilateral.asp)
+{{< icon name="download" pack="fas" >}} [Download](05.01_ITCNM.png)
 
 ---
 
 ## Gráfico 2. Índice de tipo de cambio real multilateral (17-Ene-12 = 100)
 
-{{< bokeh 01.02_itcrm.json >}}
+![05.02](05.02_ITCRM.png)
 
-> * FUENTES:
->   * [Banco Central de la República Argentina](http://www.bcra.gob.ar/PublicacionesEstadisticas/Indices_tipo_cambio_multilateral.asp)
+{{< icon name="download" pack="fas" >}} [Download](05.02_ITCRM.png)
 
 ---
 
 ## Gráfico 3. Balanza de Pagos
 
-{{< bokeh 01.03_bop.json >}}
+![05.03](05.03_BOP.png)
 
-> * FUENTES:
->   * [Comisión Económica para América Latina y el Caribe (CEPAL)](https://estadisticas.cepal.org/cepalstat/web_cepalstat/estadisticasIndicadores.asp?idioma=e)
-> ---
-> **Nota metodológica**: `Cuenta corriente` + `(Cuenta capital + Cuenta financiera)` + `Errores y omisiones` = `Reservas`.
+{{< icon name="download" pack="fas" >}} [Download](05.03_BOP.png)
 
 ---
 
 ## Gráfico 4. Intercambio Comercial Argentino (ICA)
 
-{{< bokeh 01.04_ica.json >}}
+![05.04](05.04_ICA.png)
 
-> * FUENTES:
->   * [Ministerio de Economía| Portal de Datos Económicos: Sector Externo](https://www.economia.gob.ar/datos/)
+{{< icon name="download" pack="fas" >}} [Download](05.04_ICA.png)
 
 ---
 
 ## Gráfico 5. Índice de Precios de las Materias Primas (IPMP)
 
-{{< bokeh 01.05_ipmp.json >}}
+![05.05](05.05_IPMP.png)
 
-
-> * FUENTES:
->   * [Banco Central de la República Argentina](http://www.bcra.gob.ar/PublicacionesEstadisticas/Precios_materias_primas.asp)
+{{< icon name="download" pack="fas" >}} [Download](05.05_IPMP.png)
