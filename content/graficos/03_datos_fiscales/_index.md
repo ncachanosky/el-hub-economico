@@ -62,7 +62,7 @@ type: book  # Do not modify.
 
 ![03.07](03.07_Deuda_Publica.png)
 
-{{< icon name="download" pack="fas" >}} [Download](03.06_Gasto_Consolidado_Finalidad.png)
+{{< icon name="download" pack="fas" >}} [Download](03.07_Deuda_Publica.png)
 
 ---
 
@@ -70,4 +70,4 @@ type: book  # Do not modify.
 
 ![03.08](03.08_Tiempo_Default.png)
 
-{{< icon name="download" pack="fas" >}} [Download](03.06_Gasto_Consolidado_Finalidad.png)
+{{< icon name="download" pack="fas" >}} [Download](03.08_Tiempo_Default.png)
